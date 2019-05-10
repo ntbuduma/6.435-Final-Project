@@ -1,0 +1,2125 @@
+Abstract
+The new direction in Maya archaeology is toward achieving a
+ greater understanding of people and their roles and their relations in
+ the past. To answer emerging humanistic questions about ancient
+ people's lives Mayanists are increasingly making use of new and
+ existing scientific methods from archaeology and other disciplines.
+ Maya archaeology is bridging the divide between the humanities and
+ sciences to answer questions about ancient people previously considered
+ beyond the realm of archaeological knowledge.
+DOC DONE!Abstract
+Analysis of genetic variation among modern individuals is
+ providing insight into prehistoric events. Comparisons of levels and
+ patterns of genetic diversity with the predictions of models based on
+ archeological evidence suggest that the spread of early farmers from
+ the Levant was probably the main episode in the European population
+ history, but that both older and more recent processes have left
+ recognizable traces in the current gene pool.
+DOC DONE!Abstract
+Using representation-theoretic methods, we determine the spectrum
+ of the 2 × 2 system
+ 
+ with A, B ∈ Mat2(ℝ)
+ constant matrices such that A =
+ tA > 0 (or <0), B
+ = −tB ≠ 0, and the Hermitian matrix
+ A + iB positive (or negative) definite. We
+ also give results that generalize (in a possible direction) the main
+ construction.
+DOC DONE!Abstract
+Recent advances in cDNA and oligonucleotide DNA arrays have made it
+ possible to measure the abundance of mRNA transcripts for many genes
+ simultaneously. The analysis of such experiments is nontrivial because
+ of large data size and many levels of variation introduced at different
+ stages of the experiments. The analysis is further complicated by the
+ large differences that may exist among different probes used to
+ interrogate the same gene. However, an attractive feature of
+ high-density oligonucleotide arrays such as those produced by
+ photolithography and inkjet technology is the standardization of chip
+ manufacturing and hybridization process. As a result, probe-specific
+ biases, although significant, are highly reproducible and predictable,
+ and their adverse effect can be reduced by proper modeling and analysis
+ methods. Here, we propose a statistical model for the probe-level data,
+ and develop model-based estimates for gene expression indexes. We also
+ present model-based methods for identifying and handling
+ cross-hybridizing probes and contaminating array regions. Applications
+ of these results will be presented elsewhere.
+DOC DONE!Abstract
+The new direction in Maya archaeology is toward achieving a
+ greater understanding of people and their roles and their relations in
+ the past. To answer emerging humanistic questions about ancient
+ people's lives Mayanists are increasingly making use of new and
+ existing scientific methods from archaeology and other disciplines.
+ Maya archaeology is bridging the divide between the humanities and
+ sciences to answer questions about ancient people previously considered
+ beyond the realm of archaeological knowledge.
+DOC DONE!Abstract
+Analysis of genetic variation among modern individuals is
+ providing insight into prehistoric events. Comparisons of levels and
+ patterns of genetic diversity with the predictions of models based on
+ archeological evidence suggest that the spread of early farmers from
+ the Levant was probably the main episode in the European population
+ history, but that both older and more recent processes have left
+ recognizable traces in the current gene pool.
+DOC DONE!Abstract
+2-Aminopurine (2AP) is a fluorescent analog of guanosine and
+ adenosine and has been used to probe nucleic acid structure and
+ dynamics. Its spectral features in nucleic acids have been interpreted
+ phenomenologically, in the absence of a rigorous electronic description
+ of the context-dependence of 2AP fluorescence. Now, by using
+ time-dependent density functional theory, we describe the excited-state
+ properties of 2AP in a B-form dinucleotide stacked with guanosine,
+ adenosine, cytosine, or thymine. Calculations predict that 2AP
+ fluorescence is quenched statically when stacked with purines, because
+ of mixing of the molecular orbitals in the ground state. In contrast,
+ quenching is predicted to be dynamic when 2AP is stacked with
+ pyrimidines, because of formation of a low-lying dark excited state.
+ The different quenching mechanisms will result in different
+ experimentally measured fluorescence lifetimes and quantum yields.
+DOC DONE!Abstract
+Duchenne muscular dystrophy (DMD) is a severe muscle wasting
+ disease arising from defects in the dystrophin gene, typically nonsense
+ or frameshift mutations, that preclude the synthesis of a functional
+ protein. A milder, allelic version of the disease, Becker muscular
+ dystrophy, generally arises from in-frame deletions that allow
+ synthesis of a shorter but still semifunctional protein. Therapies to
+ introduce functional dystrophin into dystrophic tissue through either
+ cell or gene replacement have not been successful to date. We report an
+ alternative approach where 2′-O-methyl antisense
+ oligoribonucleotides have been used to modify processing of the
+ dystrophin pre-mRNA in the mdx mouse model of DMD. By
+ targeting 2′-O-methyl antisense oligoribonucleotides to
+ block motifs involved in normal dystrophin pre-mRNA splicing, we
+ induced excision of exon 23, and the mdx nonsense
+ mutation, without disrupting the reading frame. Exon 23 skipping was
+ first optimized in vitro in transfected
+ H-2Kb-tsA58 mdx myoblasts and
+ then induced in vivo. Immunohistochemical staining
+ demonstrated the synthesis and correct subsarcolemmal localization of
+ dystrophin and γ-sarcoglycan in the mdx mouse after
+ intramuscular delivery of antisense oligoribonucleotide:liposome
+ complexes. This approach should reduce the severity of DMD by allowing
+ a dystrophic gene transcript to be modified, such that it can be
+ translated into a Becker-dystrophin-like protein.
+DOC DONE!Abstract
+The regeneration of pancreatic islet β cells is important
+ for the prevention and cure of diabetes mellitus. We
+ have demonstrated that the administration of poly(ADP-ribose)
+ synthetase/polymerase (PARP) inhibitors such as nicotinamide to 90%
+ depancreatized rats induces islet regeneration. From the regenerating
+ islet-derived cDNA library, we have isolated Reg
+ (regenerating gene) and demonstrated that Reg protein induces β-cell
+ replication via the Reg receptor and ameliorates experimental diabetes.
+ However, the mechanism by which Reg gene is activated in
+ β cells has been elusive. In this study, we found that the combined
+ addition of IL-6 and dexamethasone induced the expression of
+ Reg gene in β cells and that PARP inhibitors enhanced
+ the expression. Reporter gene assays revealed that the −81 ≈
+ −70 region (TGCCCCTCCCAT) of the Reg gene promoter is a
+ cis-element for the expression of Reg
+ gene. Gel mobility shift assays showed that the active transcriptional
+ DNA/protein complex was formed by the stimulation with IL-6 and
+ dexamethasone. Surprisingly, PARP bound to the
+ cis-element and was involved in the active
+ transcriptional DNA/protein complex. The DNA/protein complex
+ formation was inhibited depending on the autopoly(ADP-ribosyl)ation of
+ PARP in the complex. Thus, PARP inhibitors enhance the DNA/protein
+ complex formation for Reg gene transcription and
+ stabilize the complex by inhibiting the autopoly(ADP-ribosyl)ation of
+ PARP.
+DOC DONE!Abstract
+The minichromosome maintenance (Mcm) proteins 2–7 are required for
+ both the initiation and elongation steps of chromosomal DNA
+ replication. Previous studies have shown that the Mcm complex
+ consisting of the Mcm 4, 6, and 7 proteins contains 3′ to 5′ DNA
+ helicase activity with limited processivity (displacing duplex DNA
+ regions up to 30 nt). In this report, we show that the presence of both
+ 5′ and 3′ single-stranded tails in DNA helicase substrates is essential
+ for the processive helicase activity of the Mcm complex. The presence
+ of both 5′ and 3′ tails facilitated the formation of double
+ heterohexameric complexes of Mcm4/6/7 on substrate DNA, which
+ appeared to be essential for the processive helicase activity. The
+ double heterohexameric complex of Mcm4/6/7, in the presence of a
+ single-strand DNA binding protein, is capable of unwinding duplex DNA
+ region of about 600 bp in length. These results support the hypothesis
+ that the Mcm4/6/7 complex can function as a replication helicase.
+DOC DONE!Abstract
+Infections with parasitic helminths are important causes of
+ morbidity and mortality worldwide. New drugs that are parasite specific
+ and minimally toxic to the host are needed to counter these infections
+ effectively. Here we report the finding of a previously unidentified
+ compound, nafuredin, from Aspergillus niger. Nafuredin
+ inhibits NADH-fumarate reductase (complexes I + II) activity, a unique
+ anaerobic electron transport system in helminth mitochondria, at nM
+ order. It competes for the quinone-binding site in complex I and shows
+ high selective toxicity to the helminth enzyme. Moreover, nafuredin
+ exerts anthelmintic activity against Haemonchus
+ contortus in in vivo trials with sheep. Thus,
+ our study indicates that mitochondrial complex I is a promising target
+ for chemotherapy, and nafuredin is a potential lead compound as an
+ anthelmintic isolated from microorganisms.
+DOC DONE!Abstract
+RNase E isolated from Escherichia coli is contained
+ in a multicomponent “degradosome” complex with other proteins
+ implicated in RNA decay. Earlier work has shown that the C-terminal
+ region of RNase E is a scaffold for the binding of degradosome
+ components and has identified specific RNase E segments necessary for
+ its interaction with polynucleotide phosphorylase (PNPase), RhlB RNA
+ helicase, and enolase. Here, we report electron microscopy studies that
+ use immunogold labeling and freeze–fracture methods to show that
+ degradosomes exist in vivo in E. coli as
+ multicomponent structures that associate with the cytoplasmic membrane
+ via the N-terminal region of RNase E. Whereas PNPase and enolase are
+ present in E. coli in large excess relative to RNase E
+ and therefore are detected in cells largely as molecules unlinked to
+ the RNase E scaffold, immunogold labeling and biochemical analyses show
+ that helicase is present in approximately equimolar amounts to RNase E
+ at all cell growth stages. Our findings, which establish the existence
+ and cellular location of RNase E-based degradosomes in
+ vivo in E. coli, also suggest that RNA
+ processing and decay may occur at specific sites within cells.
+DOC DONE!Abstract
+Metal-catalyzed oxidation results in loss of function and
+ structural alteration of proteins. The oxidative process affects a
+ variety of side amino acid groups, some of which are converted to
+ carbonyl compounds. Spectrophotometric measurement of these moieties,
+ after their reaction with 2,4-dinitrophenylhydrazine, is a simple,
+ accurate technique that has been widely used to reveal increased levels
+ of protein carbonyls in aging and disease. We have initiated studies
+ aimed at elucidating the chemical nature of protein carbonyls. Methods
+ based on gas chromatography/mass spectrometry with isotopic dilution
+ were developed for the quantitation of glutamic and aminoadipic
+ semialdehydes after their reduction to hydroxyaminovaleric and
+ hydroxyaminocaproic acids. Analysis of model proteins oxidized
+ in vitro by Cu2+/ascorbate revealed that
+ these two compounds constitute the majority of protein carbonyls
+ generated. Glutamic and aminoadipic semialdehydes were also detected in
+ rat liver proteins, where they constitute ≈60% of the total protein
+ carbonyl value. Aminoadipic semialdehyde was also measured in protein
+ extracts from HeLa cells, and its level increased as a consequence of
+ oxidative stress to cell cultures. These results indicate that glutamic
+ and aminoadipic semialdehydes are the main carbonyl products of
+ metal-catalyzed oxidation of proteins, and that this reaction is a
+ major route leading to the generation of protein carbonyls in
+ biological samples.
+DOC DONE!Abstract
+We describe a rapid and general technology working entirely
+ in vitro to evolve either the affinity or the stability
+ of ligand-binding proteins, depending on the chosen selection pressure.
+ Tailored in vitro selection strategies based on ribosome
+ display were combined with in vitro diversification by
+ DNA shuffling to evolve either the off-rate or thermodynamic stability
+ of single-chain Fv antibody fragments (scFvs). To demonstrate the
+ potential of this method, we chose to optimize two proteins already
+ possessing favorable properties. A scFv with an initial affinity of 1.1
+ nM (koff at 4°C of 10−4
+ s−1) was improved 30-fold by the use of off-rate
+ selections over a period of several days. As a second example, a
+ generic selection strategy for improved stability exploited the
+ property of ribosome display that the conditions can be altered under
+ which the folding of the displayed protein occurs. We used decreasing
+ redox potentials in the selection step to select for molecules stable
+ in the absence of disulfide bonds. They could be functionally expressed
+ in the reducing cytoplasm, and, when allowed to form disulfides again,
+ their stability had increased to 54 kJ/mol from an initial value of
+ 24 kJ/mol. Sequencing revealed that the evolved mutant proteins had
+ used different strategies of residue changes to adapt to the selection
+ pressure. Therefore, by a combination of randomization and appropriate
+ selection strategies, an in vitro evolution of protein
+ properties in a predictable direction is possible.
+DOC DONE!Abstract
+A functional human NADH-dependent cytochrome P450 system has been
+ developed by altering the cofactor preference of human NADPH cytochrome
+ P450 reductase (CPR), the redox partner for P450s. This has been
+ achieved by a single amino acid change of the conserved aromatic amino
+ acid Trp-676, which covers the re-side of the FAD isoalloxazine ring in
+ the nicotinamide-binding site. Of the mutations made, the substitution
+ of Trp-676 with alanine (W676A) resulted in a functional NADH-dependent
+ enzyme, which catalyzed the reduction of cytochrome c
+ and ferricyanide as well as facilitated the metabolism of
+ 7-ethoxyresorufin by CYP1A2. Kinetic analysis measuring cytochrome
+ c activity revealed that the NADH-dependent
+ kcat of W676A is equivalent (90%) to the
+ NADPH-dependent kcat of the wild-type
+ enzyme, with W676A having an approximately 1,000-fold higher
+ specificity for NADH. The apparent
+ KMNADPH and
+ KMNADH values of W676A are 80- and
+ 150-fold decreased, respectively. In accordance with structural data,
+ which show a bipartite binding mode of NADPH, substitution of Trp-676
+ does not affect 2′-AMP binding as seen by the inhibition of both
+ wild-type CPR and the W676A mutant. Furthermore, NADPH was a potent
+ inhibitor of the W676A NADH-dependent cytochrome c
+ reduction and CYP1A2 activity. Overall, the results show that Trp-676
+ of human CPR plays a major role in cofactor discrimination, and
+ substitution of this conserved aromatic residue with alanine results in
+ an efficient NADH-dependent cytochrome P450 system.
+DOC DONE!Abstract
+Trichostatin A (TSA) and trapoxin (TPX) are potent inhibitors of
+ histone deacetylases (HDACs). TSA is proposed to block the catalytic
+ reaction by chelating a zinc ion in the active-site pocket through its
+ hydroxamic acid group. On the other hand, the epoxyketone is
+ suggested to be the functional group of TPX capable of alkylating the
+ enzyme. We synthesized a novel TPX analogue containing a hydroxamic
+ acid instead of the epoxyketone. The hybrid compound cyclic hydroxamic
+ acid-containing peptide (CHAP) 1 inhibited HDAC1 at low nanomolar
+ concentrations. The HDAC1 inhibition by CHAP1 was reversible as it was
+ by TSA, in contrast to the irreversible inhibition by TPX. CHAP with an
+ aliphatic chain length of five, which corresponded to that of
+ acetylated lysine, was stronger than those with other lengths. These
+ results suggest that TPX is a substrate mimic and that the replacement
+ of the epoxyketone with the hydroxamic acid converted TPX to an
+ inhibitor chelating the zinc like TSA. Interestingly, HDAC6, but not
+ HDAC1 or HDAC4, was resistant to TPX and CHAP1, whereas TSA inhibited
+ these HDACs to a similar extent. HDAC6 inhibition by TPX at a high
+ concentration was reversible, probably because HDAC6 is not alkylated
+ by TPX. We further synthesized the counterparts of all known naturally
+ occurring cyclic tetrapeptides containing the epoxyketone. HDAC1 was
+ highly sensitive to all these CHAPs much more than HDAC6, indicating
+ that the structure of the cyclic tetrapeptide framework affects the
+ target enzyme specificity. These results suggest that CHAP is a unique
+ lead to develop isoform-specific HDAC inhibitors.
+DOC DONE!Abstract
+Agonist-dependent desensitization and internalization of G
+ protein-coupled receptors (GPCR) are mediated by the binding of
+ arrestins to phosphorylated receptors. The affinity of arrestins for
+ the phosphorylated GPCR regulates the ability of the internalized
+ receptor to be dephosphorylated and recycled back to the plasma
+ membrane. In this study, we show that the naturally occurring loss
+ of function vasopressin receptor mutation R137H, which is associated
+ with familial nephrogenic diabetes insipidus, induces constitutive
+ arrestin-mediated desensitization. In contrast to the wild-type
+ vasopressin receptor, the nonsignaling R137H receptor is phosphorylated
+ and sequestered in arrestin-associated intracellular vesicles even in
+ the absence of agonist. Eliminating molecular determinants on the
+ receptor that promote high affinity arrestin–receptor interaction
+ reestablishes plasma membrane localization and the ability of the
+ mutated receptors to signal. These findings suggest that unregulated
+ desensitization can contribute to the etiology of a GPCR-based disease,
+ implying that pharmacological targeting of GPCR desensitization may be
+ therapeutically beneficial.
+DOC DONE!Abstract
+The 207-kDa polyketide synthase (PKS) module (residues 1–1895) and
+ the 143-kDa nonribosomal peptidyl synthetase (NRPS) module (1896–3163)
+ of the 350-kDa HMWP1 subunit of yersiniabactin synthetase have been
+ expressed in and purified from Escherichia coli in
+ soluble forms to characterize the acyl carrier protein (ACP) domain of
+ the PKS module and the homologous peptidyl carrier protein
+ (PCP3) domain of the NRPS module. The apo-ACP and PCP
+ domains could be selectively posttranslationally primed by the
+ E. coli ACPS and EntD phosphopantetheinyl transferases
+ (PPTases), respectively, whereas the Bacillus subtilis
+ PPTase Sfp primed both carrier protein domains in vitro
+ or during in vivo coexpression. The holo-NRPS module but
+ not the holo-PKS module was then selectively aminoacylated with
+ cysteine by the adenylation domain embedded in the HMWP2 subunit of
+ yersiniabactin synthetase, acting in trans. When the
+ acyltransferase (AT) domain of HMWP1 was analyzed for its ability to
+ malonylate the holo carrier protein domains, in cis
+ acylation was first detected. Then, in trans
+ malonylation of the excised holo-ACP or holo-PCP3–TE
+ fragments by HMWP1 showed both were malonylated with a 3:1 catalytic
+ efficiency ratio, showing a promiscuity to the AT domain.
+DOC DONE!Abstract
+Direct structural information obtained for many proteins supports
+ the following conclusions. The amino acid sequences of proteins can
+ stabilize not only the final native state but also a small set of
+ discrete partially folded native-like intermediates. Intermediates are
+ formed in steps that use as units the cooperative secondary structural
+ elements of the native protein. Earlier intermediates guide the
+ addition of subsequent units in a process of sequential
+ stabilization mediated by native-like tertiary interactions.
+ The resulting stepwise self-assembly process automatically constructs a
+ folding pathway, whether linear or branched. These conclusions are
+ drawn mainly from hydrogen exchange-based methods, which can depict the
+ structure of infinitesimally populated folding intermediates at
+ equilibrium and kinetic intermediates with subsecond lifetimes. Other
+ kinetic studies show that the polypeptide chain enters the folding
+ pathway after an initial free-energy-uphill conformational search. The
+ search culminates by finding a native-like topology that can support
+ forward (native-like) folding in a free-energy-downhill manner. This
+ condition automatically defines an initial transition state, the search
+ for which sets the maximum possible (two-state) folding rate. It also
+ extends the sequential stabilization strategy, which depends on a
+ native-like context, to the first step in the folding process. Thus the
+ native structure naturally generates its own folding pathway. The same
+ amino acid code that translates into the final equilibrium native
+ structure—by virtue of propensities, patterning, secondary structural
+ cueing, and tertiary context—also produces its kinetic
+ accessibility.
+DOC DONE!Abstract
+Human pluripotent stem cells (hPSCs) have been derived from the
+ inner cell mass cells of blastocysts (embryonic stem cells) and
+ primordial germ cells of the developing gonadal ridge (embryonic germ
+ cells). Like their mouse counterparts, hPSCs can be maintained in
+ culture in an undifferentiated state and, upon differentiation,
+ generate a wide variety of cell types. Embryoid body (EB) formation is
+ a requisite step in the process of in vitro
+ differentiation of these stem cells and has been used to derive neurons
+ and glia, vascular endothelium, hematopoietic cells, cardiomyocytes,
+ and glucose-responsive insulin-producing cells from mouse PSCs. EBs
+ generated from human embryonic germ cell cultures have also been found
+ to contain a wide variety of cell types, including neural cells,
+ vascular endothelium, muscle cells, and endodermal derivatives. Here,
+ we report the isolation and culture of cells from human EBs as well as
+ a characterization of their gene expression during growth in several
+ different culture environments. These heterogeneous cell cultures are
+ capable of robust and long-term [>70 population doublings (PD)]
+ proliferation in culture, have normal karyotypes, and can be
+ cryopreserved, clonally isolated, and stably transfected. Cell cultures
+ and clonal lines retain a broad pattern of gene expression including
+ simultaneous expression of markers normally associated with cells of
+ neural, vascular/hematopoietic, muscle, and endoderm lineages. The
+ growth and expression characteristics of these EB-derived cells suggest
+ that they are relatively uncommitted precursor or progenitor cells.
+ EB-derived cells may be suited to studies of human cell differentiation
+ and may play a role in future transplantation therapies.
+DOC DONE!Abstract
+Matrix metalloproteinase 2 (MMP2) can associate with
+ integrin αvβ3 on the surface of endothelial
+ cells, thereby promoting vascular invasion. Here, we describe an
+ organic molecule (TSRI265) selected for its ability to bind to integrin
+ αvβ3 and block
+ αvβ3 interaction with MMP2. Although
+ disrupting αvβ3/MMP2 complex formation,
+ TSRI265 has no effect on αvβ3 binding to
+ its extracellular matrix ligand vitronectin and does not influence MMP2
+ activation or catalytic activity directly. However, TSRI265 acts as a
+ potent antiangiogenic agent and thereby blocks tumor growth in
+ vivo. These findings suggest that activated MMP2 does not
+ facilitate vascular invasion during angiogenesis unless it forms a
+ complex with αvβ3 on the endothelial cell
+ surface. By disrupting endothelial cell invasion without broadly
+ suppressing cell adhesion or MMP function, the use of compounds such as
+ TSRI265 may provide a novel therapeutic approach for diseases
+ associated with uncontrolled angiogenesis.
+DOC DONE!Abstract
+The role of PKN, a fatty acid- and Rho small GTPase-activated
+ protein kinase, in cell-cycle regulation was analyzed. Microinjection
+ of the active form of PKN into a Xenopus embryo caused
+ cleavage arrest, whereas normal cell division proceeded in the control
+ embryo microinjected with buffer or the inactive form of PKN. Exogenous
+ addition of the active form of PKN delayed mitotic timing in
+ Xenopus egg cycling extracts judging by morphology of
+ sperm nuclei and Cdc2/cyclin B histone H1 kinase activity. The
+ kinase-negative form of PKN did not affect the timing, suggesting that
+ delayed mitotic timing depends on the kinase activity of PKN. The
+ dephosphorylation of Tyr-15 of Cdc2 was also delayed in correlation
+ with Cdc2/cyclin B histone H1 kinase activation in extracts
+ containing active PKN. The Cdc25C activity for the dephosphorylation of
+ Tyr-15 in Cdc2 was suppressed by pretreatment with the active form of
+ PKN. Furthermore, PKN efficiently phosphorylated Cdc25C in
+ vitro, indicating that PKN directly inhibits Cdc25C activity by
+ phosphorylation. These results suggest that PKN plays a significant
+ role in the control of mitotic timing by inhibition of Cdc25C.
+DOC DONE!Abstract
+Expression of the breast and ovarian cancer susceptibility gene
+ BRCA1 is down-regulated in sporadic breast and ovarian
+ cancer cases. Therefore, the identification of genes involved in the
+ regulation of BRCA1 expression might lead to new
+ insights into the pathogenesis and treatment of these tumors. In the
+ present study, an “inverse genomics” approach based on a
+ randomized ribozyme gene library was applied to identify cellular genes
+ regulating BRCA1 expression. A ribozyme gene library
+ with randomized target recognition sequences was introduced into human
+ ovarian cancer-derived cells stably expressing a selectable marker
+ [enhanced green fluorescence protein (EGFP)] under the control of the
+ BRCA1 promoter. Cells in which BRCA1
+ expression was upregulated by particular ribozymes were selected
+ through their concomitant increase in EGFP expression. The cellular
+ target gene of one ribozyme was identified to be the dominant negative
+ transcriptional regulator Id4. Modulation of
+ Id4 expression resulted in inversely regulated
+ expression of BRCA1. In addition, increase in
+ Id4 expression was associated with the ability of cells
+ to exhibit anchorage-independent growth, demonstrating the biological
+ relevance of this gene. Our data suggest that Id4 is a
+ crucial gene regulating BRCA1 expression and might
+ therefore be important for the BRCA1 regulatory pathway
+ involved in the pathogenesis of sporadic breast and ovarian cancer.
+DOC DONE!Abstract
+The oncoproteins P3k (homolog of the catalytic subunit of class IA
+ phosphoinositide 3-kinase) and Akt (protein kinase B) induce oncogenic
+ transformation of chicken embryo fibroblasts. The transformed cells
+ show constitutive phosphorylation of the positive regulator of
+ translation p70S6 kinase (S6K) and of the eukaryotic initiation factor
+ 4E-BP1 binding protein (4E-BP1), a negative regulator of translation.
+ Phosphorylation activates S6K and inactivates 4E-BP1. A mutant of Akt
+ that retains kinase activity but does not induce phosphorylation of S6K
+ or of 4E-BP1 fails to transform chicken embryo fibroblasts, suggesting
+ a correlation between the oncogenicity of Akt and phosphorylation of
+ S6K and 4E-BP1. The macrolide antibiotic rapamycin effectively blocks
+ oncogenic transformation induced by either P3k or Akt but does not
+ reduce the transforming activity of 11 other oncoproteins. Rapamycin
+ inhibits the kinase mTOR, an important regulator of translation, and
+ this inhibition requires binding of the antibiotic to the immunophilin
+ FKBP12. Displacement of rapamycin from FKBP12 relieves the inhibition
+ of mTOR and also restores P3k-induced transformation. These data are in
+ accord with the hypothesis that transformation by P3k or Akt involves
+ intervention in translational controls.
+DOC DONE!Abstract
+PC-cell-derived growth factor (PCDGF) is an 88-kDa glycoprotein
+ corresponding to the granulin precursor. We have reported that PCDGF
+ was expressed in human breast cancer cells. In estrogen-receptor
+ positive cells, 17-β-estradiol (E2) transcriptionally
+ stimulated PCDGF expression in a dose- and time-dependent fashion. We
+ demonstrate here that PCDGF mediates the mitogenic effect of
+ E2 in MCF-7 cells. PCDGF substituted for E2 to
+ stimulate DNA synthesis. The E2 mitogenic effect was
+ inhibited in a dose-dependent fashion by anti-PCDGF neutralizing
+ antibody. Inhibition of PCDGF expression by antisense transfection also
+ inhibited the E2 mitogenic effect. In contrast,
+ overexpression of PCDGF in MCF-7 cells resulted in cells that were able
+ to proliferate in the absence of estrogen and were tamoxifen resistant.
+ The PCDGF signaling pathway was examined. Like E2, PCDGF
+ stimulated mitogen-activated protein kinase activity. PCDGF could
+ substitute for E2 in stimulating cyclin D1 expression. The
+ cyclin D1 stimulation by E2 was 50% inhibited by
+ anti-PCDGF antibody. In contrast, PCDGF did not stimulate
+ c-myc expression, another molecular target of
+ E2. We conclude that autocrine PCDGF mediates the
+ E2 mitogenic effect via stimulation of cyclin D1. These
+ studies provide information on estrogen action and identify an
+ autocrine molecular target in human breast cancer cells.
+DOC DONE!Abstract
+Activation of phospholipase C in nonexcitable cells causes the
+ release of calcium (Ca2+) from intracellular stores and
+ activation of Ca2+ influx by means of Ca2+
+ release-activated channels (ICRAC) in the plasma membrane.
+ The molecular identity and the mechanism of ICRAC channel
+ activation are poorly understood. Using the patch–clamp technique,
+ here we describe the plasma membrane Ca2+ channels in human
+ carcinoma A431 cells, which can be activated by extracellular UTP, by
+ depletion of intracellular Ca2+ stores after exposure to
+ the Ca2+-pump inhibitor thapsigargin, or by loading the
+ cells with Ca2+ chelator
+ 1,2-bis(2-aminophenoxy)ethane-N,N,N′,N′-tetraacetate.
+ The observed channels display the same conductance and gating
+ properties as previously described Imin channels, but have
+ significantly lower conductance for monovalent cations than the
+ ICRAC channels. Thus, we concluded that the
+ depletion-activated Ca2+ current in A431 cells is supported
+ by ICRAC-like (ICRACL) channels, identical to
+ Imin. We further demonstrated synergism in activation of
+ ICRACL Ca2+ channels by extracellular UTP and
+ intracellular inositol (1,4,5)-triphosphate (IP3),
+ apparently because of reduction in phosphatidylinositol
+ 4,5-bisphosphate (PIP2) levels in the patch. Prolonged
+ exposure of patches to thapsigargin renders ICRACL
+ Ca2+ channels unresponsive to IP3 but still
+ available to activation by the combined action of IP3 and
+ anti-PIP2 antibody. Based on these data, we concluded that
+ phospholipase C-mediated and store-operated Ca2+ influx
+ pathways in A431 cells converge on the same ICRACL
+ Ca2+ channel, which can be modulated by PIP2.
+DOC DONE!Abstract
+Mammalian bladder epithelium functions as an effective permeability
+ barrier. We demonstrate here that this epithelium can also function as
+ a secretory tissue directly involved in modifying urinary protein
+ composition. Our data indicate that normal bovine urothelium
+ synthesizes, as its major differentiation products, two well-known
+ proteases: tissue-type plasminogen activator and urokinase, as well as
+ a serine protease inhibitor, PP5. Moreover, we demonstrate that the
+ urothelium secretes these proteins in a polarized fashion into the
+ urine via a cAMP- and calcium-regulated pathway. Urinary plasminogen
+ activators of ruminants are therefore urothelium derived rather then
+ kidney derived as in some other species; this heterogeneity may have
+ evolved in response to different physiological or dietary factors. In
+ conjunction with our recent finding that transgenic mouse urothelium
+ can secrete ectopically expressed human growth hormone into the urine,
+ our data establish that normal mammalian urothelium can function not
+ only as a permeability barrier but also as a secretor of urinary
+ proteins that can play physiological or pathological roles in the
+ urinary tract.
+DOC DONE!Abstract
+In the growth plate of endochondral bones, parathyroid hormone
+ (PTH)-related peptide (PTHrP) regulates the rate of chondrocyte
+ maturation from prehypertrophic chondrocytes to hypertrophic
+ chondrocytes. Using an antibody specific for Sox9 phosphorylated at
+ serine 181 (S181), one of the two consensus protein kinase
+ A phosphorylation sites of Sox9, we showed that the addition of PTHrP
+ strongly increased the phosphorylation of SOX9 in COS7 cells
+ transfected with both SOX9- and PTH/PTHrP receptor-expressing
+ vectors. PTHrP also increased the SOX9-dependent activity of
+ chondrocyte-specific enhancers in the gene for type II collagen
+ (Col2a1) in transient transfection experiments. This
+ increased enhancer activity did not occur with a Sox9 mutant harboring
+ serine-to-alanine substitutions in its two consensus protein kinase A
+ phosphorylation sites. Consistent with these results, PTHrP also
+ increased Col2a1 mRNA levels in rat chondrosarcoma cells
+ as well as 10T1/2 mesenchymal cells transfected with a PTH/PTHrP
+ receptor expressing plasmid. No phosphorylation of Sox9 at
+ S181 was detected in prehypertrophic chondrocytes of the
+ growth plate or any chondrocytes of PTH/PTHrP receptor null mutants.
+ In contrast in wild-type mouse embryos, previous immunohistochemistry
+ experiments indicated that Sox9 phosphorylated at S181 was
+ detected almost exclusively in chondrocytes of the prehypertrophic
+ zone. Sox9, regardless of the phosphorylation state, was present in all
+ chondrocytes of both genotypes except hypertrophic chondrocytes. Our
+ results indicated that Sox9 is a target of PTHrP signaling in
+ prehypertrophic chondrocytes in the growth plate. We hypothesize that
+ Sox9 mediates at least some effects of PTHrP in the growth plate and
+ that the PTHrP-dependent increased transcriptional activity of Sox9
+ helps maintain the chondrocyte phenotype of cells in the
+ prehypertrophic zone and inhibits their maturation to hypertrophic
+ chondrocytes.
+DOC DONE!Abstract
+Mutual trophic interactions between contiguous habitats have
+ remained poorly understood despite their potential significance for
+ community maintenance in ecological landscapes. In a deciduous forest
+ and stream ecotone, aquatic insect emergence peaked around spring, when
+ terrestrial invertebrate biomass was low. In contrast, terrestrial
+ invertebrate input to the stream occurred primarily during summer, when
+ aquatic invertebrate biomass was nearly at its lowest. Such reciprocal,
+ across-habitat prey flux alternately subsidized both forest birds and
+ stream fishes, accounting for 25.6% and 44.0% of the annual total
+ energy budget of the bird and fish assemblages, respectively. Seasonal
+ contrasts between allochthonous prey supply and in situ
+ prey biomass determine the importance of reciprocal subsidies.
+DOC DONE!Abstract
+In mammals, Robertsonian (Rb) translocation (the joining of
+ two telo/acrocentric chromosomes at their centromere to form a
+ metacentric) is the most effective process in chromosomal evolution
+ leading to speciation; its occurrence also affects human health
+ (through the induction of trisomies) and the fertility of farm animals.
+ To understand the mechanism of Rb translocation, we used the house
+ mouse as a model system and studied the organization of pericentromeric
+ satellite DNAs (satDNA) of telocentrics and Rb chromosomes, both minor
+ and major satDNA. The chromosome-orientation fluorescence in
+ situ hybridization (CO-FISH) technique was used to analyze the
+ major satDNA. To detect the very small amount of minor satDNA, a
+ procedure was developed that combines CO-FISH with primed in
+ situ labeling and conventional FISH and is five times more
+ sensitive than the CO-FISH procedure alone. It was found that both the
+ major and the minor satDNA tandem repeats are oriented head-to-tail in
+ telocentric and Rb chromosomes, and their polarity is always the same
+ relative to the centromere. We suggest that all tandemly repetitive
+ satDNAs in a species probably are locked into such a symmetry
+ constraint as a universal consequence of chromosomal evolution. Rb
+ translocation breakpoints were found localized within the minor satDNA
+ of telocentrics, and these sequences contributed symmetrically to the
+ formation of the centromeric region of the Rb chromosomes. These
+ results are important for an understanding of the geometry of Rb
+ translocations and suggest the study of DNA orientation as a new tool
+ for investigating these rearrangements.
+DOC DONE!Abstract
+Rapidly evolving entities, such as viruses, can undergo complex
+ genetic changes in the face of strong selective pressure. We have
+ developed a modified heteroduplex tracking assay (HTA) capable of
+ detecting the presence of single, specific mutations or sets of linked
+ mutations. The initial application of this approach, termed
+ multiple-site-specific (MSS) HTA, was directed toward the detection of
+ mutations in the HIV-1 pro gene at positions 46, 48, 54,
+ 82, 84, and 90, which are associated with resistance to multiple
+ protease inhibitors. We demonstrate that MSS HTA is sensitive and
+ largely specific to all targeted mutations. The assay allows the
+ accurate and reproducible quantitation of viral subpopulations
+ comprising 3% or more of the total population. Furthermore, we used
+ MSS HTA in longitudinal studies of pro gene evolution
+ in vitro and in vivo. In the examples
+ shown here, populations turned over rapidly and more than one
+ population was present frequently. To demonstrate the versatility of
+ MSS HTA, we also constructed a probe sensitive to changes at positions
+ 181 and 184 of the RT coding domain. Changes at these positions are
+ involved in resistance to nevirapine and 2′,3′-dideoxy-3′-thiacytidine
+ (3TC), respectively. This assay easily detected the evolution of
+ resistance to 3TC. MSS HTA provides a rapid and sensitive approach for
+ detecting the presence of and quantifying complex mixtures of distinct
+ genotypes, including genetically linked mutations, and, as one example,
+ represents a useful tool for following the evolution of drug resistance
+ during failure of HIV-1 antiviral therapy.
+DOC DONE!Abstract
+The identification of clones within bacterial populations is often
+ taken as evidence for a low rate of recombination, but the validity of
+ this inference is rarely examined. We have used statistical tests of
+ congruence between gene trees to examine the extent and significance of
+ recombination in six bacterial pathogens. For Neisseria
+ meningitidis, Streptococcus pneumoniae,
+ Streptococcus pyogenes, and Staphylococcus
+ aureus, the congruence between the maximum likelihood trees
+ reconstructed using seven house-keeping genes was in most cases no
+ better than that between each tree and trees of random topology. The
+ lack of congruence between gene trees in these four species, which
+ include both naturally transformable and nontransformable species, is
+ in three cases supported by high ratios of recombination to point
+ mutation during clonal diversification (estimates of this parameter
+ were not possible for Strep. pyogenes). In contrast,
+ gene trees constructed for Hemophilus influenzae and
+ pathogenic isolates of Escherichia coli showed a higher
+ degree of congruence, suggesting lower rates of recombination. The
+ impact of recombination therefore varies between bacterial species but
+ in many species is sufficient to obliterate the phylogenetic signal in
+ gene trees.
+DOC DONE!Abstract
+DNA sequence evidence supports a superordinal clade of mammals that
+ comprises elephants, sea cows, hyraxes, aardvarks, elephant shrews,
+ golden moles, and tenrecs, which all have their origins in Africa, and
+ therefore are dubbed Afrotheria. Morphologically, this appears an
+ unlikely assemblage, which challenges—by including golden moles and
+ tenrecs—the monophyly of the order Lipotyphla (Insectivora). We here
+ identify in three proteins unique combinations of apomorphous amino
+ acid replacements that support this clade. The statistical support for
+ such “sequence signatures” as unambiguous synapomorphic evidence
+ for the naturalness of the Afrotherian clade is reported. Using
+ likelihood, combinatorial, and Bayesian methods we show that the
+ posterior probability of the mammalian tree containing the Afrotherian
+ clade is effectively 1.0, based on conservative assumptions. Presenting
+ sequence data for another African insectivore, the otter shrew
+ Micropotamogale lamottei, we demonstrate that such
+ signatures are diagnostic for including newly investigated species in
+ the Afrotheria. Sequence signatures provide
+ “protein-morphological” synapomorphies that may aid in
+ visualizing monophyletic groupings.
+DOC DONE!Abstract
+Analysis of genetic variation among modern individuals is
+ providing insight into prehistoric events. Comparisons of levels and
+ patterns of genetic diversity with the predictions of models based on
+ archeological evidence suggest that the spread of early farmers from
+ the Levant was probably the main episode in the European population
+ history, but that both older and more recent processes have left
+ recognizable traces in the current gene pool.
+DOC DONE!Abstract
+D-type cyclins (cyclins D1, D2, and D3) are key components of cell
+ cycle machinery in mammalian cells. These proteins are believed to
+ drive cell cycle progression by associating with their kinase partners,
+ cyclin-dependent kinases, and by directing phosphorylation of critical
+ cellular substrates. In addition, D-cyclins play a kinase-independent
+ role by sequestering cell cycle inhibitors p27Kip1 and
+ p21Cip1. In the past, we and others generated cyclin
+ D1-deficient mice and have shown that these mice display developmental
+ abnormalities, hypoplastic retinas, and pregnancy-insensitive mammary
+ glands. To test the significance of cyclin D1–p27Kip1
+ interaction within a living mouse, we crossed cyclin D1-deficient mice
+ with mice lacking p27Kip1, and we generated double-mutant
+ cyclin D1−/−p27−/− animals. Here we report
+ that ablation of p27Kip1 restores
+ essentially normal development in cyclin D1-deficient mice. Our results
+ provide genetic evidence that p27Kip1 functions downstream
+ of cyclin D1.
+DOC DONE!Abstract
+Histone acetylation and deacetylation play essential roles in
+ eukaryotic gene regulation. Reversible modifications of core histones
+ are catalyzed by two intrinsic enzymes, histone acetyltransferase and
+ histone deacetylase (HD). In general, histone deacetylation is related
+ to transcriptional gene silencing, whereas acetylation correlates with
+ gene activation. We produced transgenic plants expressing the antisense
+ Arabidopsis HD (AtHD1) gene. AtHD1 is a homolog of human
+ HD1 and RPD3 global transcriptional regulator in yeast. Expression of
+ the antisense AtHD1 caused dramatic reduction in
+ endogenous AtHD1 transcription, resulting in
+ accumulation of acetylated histones, notably tetraacetylated H4.
+ Reduction in AtHD1 expression and AtHD1 production and
+ changes in acetylation profiles were associated with various
+ developmental abnormalities, including early senescence, ectopic
+ expression of silenced genes, suppression of apical dominance, homeotic
+ changes, heterochronic shift toward juvenility, flower defects, and
+ male and female sterility. Some of the phenotypes could be attributed
+ to ectopic expression of tissue-specific genes (e.g.,
+ SUPERMAN) in vegetative tissues. No changes in genomic
+ DNA methylation were detected in the transgenic plants. These results
+ suggest that AtHD1 is a global regulator, which controls gene
+ expression during development through DNA-sequence independent or
+ epigenetic mechanisms in plants. In addition to DNA methylation,
+ histone modifications may be involved in a general regulatory mechanism
+ responsible for plant plasticity and variation in nature.
+DOC DONE!Abstract
+We have developed a strategy for multiplex PCR based on PCR
+ suppression. PCR suppression allows DNA target amplification with only
+ one sequence-specific primer per target and a second primer that is
+ common for all targets. Therefore, an n-plex PCR would require only n +
+ 1 primers. We have demonstrated uniform, efficient amplification of
+ targeted sequences in 14-plex PCR. The high specificity of suppression
+ PCR also provides multiplexed amplification with allele specificity.
+ Multiplexed PCR was used to develop assays for genotyping DNA samples
+ from cystic fibrosis-affected individuals. The new approach greatly
+ simplifies primer design, significantly increases the PCR multiplexing
+ level, and decreases the overall primer cost. In addition, this assay
+ is more readily amenable to automation and is therefore suitable for
+ high-throughput genetic diagnostics.
+DOC DONE!Abstract
+Many circular genomes have replication termination systems, yet
+ disruption of these systems does not cause an obvious defect in growth
+ or viability. We have found that the replication termination system of
+ Bacillus subtilis contributes to accurate chromosome
+ partitioning. Partitioning of the terminus region requires that
+ chromosome dimers, that have formed as a result of RecA-mediated
+ homologous recombination, be resolved to monomers by the site-specific
+ recombinase encoded by ripX. In addition, the chromosome
+ must be cleared from the region of formation of the division septum.
+ This process is facilitated by the spoIIIE gene product
+ which is required for movement of a chromosome out of the way of the
+ division septum during sporulation. We found that deletion of
+ rtp, which encodes the replication termination protein,
+ in combination with mutations in ripX or
+ spoIIIE, led to an increase in production of anucleate
+ cells. This increase in production of anucleate cells depended on
+ recA, indicating that there is probably an increase in
+ chromosome dimer formation in the absence of the replication
+ termination system. Our results also indicate that SpoIIIE probably
+ enhances the function of the RipX recombinase system. We also
+ determined the subcellular location of the replication termination
+ protein and found that it is a good marker for the position of the
+ chromosome terminus.
+DOC DONE!Abstract
+We have constructed DNA microarrays containing 17,871 genes,
+ representing about 94% of the 18,967 genes currently annotated in the
+ Caenorhabditis elegans genome. These DNA
+ microarrays can be used as a tool to define a nearly complete molecular
+ profile of gene expression levels associated with different
+ developmental stages, growth conditions, or worm strains. Here, we used
+ these full-genome DNA microarrays to show the relative levels of gene
+ expression for nearly every gene during development, from eggs through
+ adulthood. These expression data can help reveal when a gene may act
+ during development. We also compared gene expression in males to that
+ of hermaphrodites and found a total of 2,171 sex-regulated genes
+ (P < 0.05). The sex-regulated genes provide a
+ global view of the differences between the sexes at a molecular level
+ and identify many genes likely to be involved in sex-specific
+ differentiation and behavior.
+DOC DONE!Abstract
+Retinoid X receptor α (RXRα) is involved in multiple signaling
+ pathways, as a heterodimeric partner of several nuclear receptors. To
+ investigate its function in energy homeostasis, we have selectively
+ ablated the RXRα gene in adipocytes of 4-week-old transgenic mice by
+ using the tamoxifen-inducible Cre-ERT2 recombination
+ system. Mice lacking RXRα in adipocytes were resistant to dietary and
+ chemically induced obesity and impaired in fasting-induced lipolysis.
+ Our results also indicate that RXRα is involved in adipocyte
+ differentiation. Thus, our data demonstrate the feasibility of
+ adipocyte-selective temporally controlled gene engineering and reveal a
+ central role of RXRα in adipogenesis, probably as a
+ heterodimeric partner for peroxisome proliferator-activated
+ receptor γ.
+DOC DONE!Abstract
+The cleavage model for signal transduction by receptors of the
+ LIN-12/Notch family posits that ligand binding leads to cleavage
+ within the transmembrane domain, so that the intracellular domain is
+ released to translocate to the nucleus and activate target gene
+ expression. The familial Alzheimer's disease-associated protein
+ Presenilin is required for LIN-12/Notch signaling, and several lines
+ of evidence suggest that Presenilin mediates the transmembrane cleavage
+ event that releases the LIN-12/Notch intracellular domain. However,
+ doubt was cast on this possibility by a report that Presenilin is not
+ required for the transducing activity of NECN, a
+ constitutively active transmembrane form of Notch, in
+ Drosophila. Here, we have reassessed this finding and
+ show instead that Presenilin is required for activity of
+ NECN for all cell fate decisions examined. Our results
+ indicate that transmembrane cleavage and signal transduction are
+ strictly correlated, supporting the cleavage model for signal
+ transduction by LIN-12/Notch and a role for Presenilin in mediating
+ the ligand-induced transmembrane cleavage.
+DOC DONE!Abstract
+Genetic analysis of autoimmune insulin-dependent diabetes mellitus
+ (IDDM) has focused on genes controlling immune functions, with little
+ investigation of innate susceptibility determinants expressed at the
+ level of target β cells. The Alloxan (AL) Resistant (R) Leiter (Lt)
+ mouse strain, closely related to the IDDM-prone nonobese diabetic
+ (NOD)/Lt strain, demonstrates the importance of such determinants.
+ ALR mice are unusual in their high constitutive expression of molecules
+ associated with dissipation of free-radical stress systemically and at
+ the β-cell level. ALR islets were found to be remarkably
+ resistant to two different combinations of β-cytotoxic cytokines
+ (IL-1β, tumor necrosis factor α, and IFN-γ) that destroyed islets
+ from the related NOD and alloxan-susceptible strains. The close MHC
+ relatedness between the NOD and ALR strains (H2-Kd and
+ H2-Ag7 identical) allowed us to examine whether ALR islet
+ cells could survive autoimmune destruction by NOD-derived
+ Kd-restricted diabetogenic cytotoxic T lymphocyte clones
+ (AI4 and the insulin-reactive G9C8 clones). Both clones killed islet
+ cells from all Kd-expressing strains except ALR. ALR
+ resistance to diabetogenic immune systems was determined in
+ vivo by means of adoptive transfer of the G9C8 clone or by
+ chimerizing lethally irradiated ALR or reciprocal (ALR ×
+ NOD)F1 recipients with NOD bone marrow. In all in
+ vivo systems, ALR and F1 female recipients of NOD
+ marrow remained IDDM free; in contrast, all of the NOD recipients
+ became diabetic. In conclusion, the ALR mouse presents a unique
+ opportunity to identify dominant IDDM resistance determinants expressed
+ at the β cell level.
+DOC DONE!Abstract
+The mechanisms controlling induction of anergy at the level of
+ naïve CD4+ T cells are poorly understood but
+ thought to reflect limited contact with costimulatory molecules during
+ T cell antigen receptor (TCR) ligation. To clarify this question,
+ naïve TCR transgenic CD4+ cells were exposed to
+ specific peptide presented by transfected antigen-presenting cells
+ (APC) expressing MHC class II molecules with defined accessory
+ molecules. Significantly, culturing CD4+ cells with APC
+ expressing MHC II plus peptide alone elicited early TCR signaling but
+ failed to induce either proliferation or anergy. Culture with APC
+ expressing MHC II plus B7 molecules led to strong proliferation and T
+ cell priming but no anergy. In marked contrast, conspicuous induction
+ of anergy occurred after T cell culture with APC expressing MHC class
+ II and intercellular adhesion molecule-1 (ICAM-1). Thus, at the level
+ of naïve CD4+ cells, anergy induction appears to
+ reflect selective contact with APC expressing ICAM-1 in the absence of
+ B7.
+DOC DONE!Abstract
+Hepatocyte growth factor (HGF) is a ligand of the receptor tyrosine
+ kinase encoded by the c-Met protooncogene.
+ HGF/Met signaling has multifunctional effects on various cell
+ types. We sought to determine the role of HGF/Met in
+ apoptosis and identify signal transducers involved in this
+ process. In experiments with human SK-LMS-1 leiomyosarcoma cells, we
+ show that the Akt kinase is activated by HGF in a time- and
+ dose-dependent manner by phosphatidylinositol 3-kinase (PI3-kinase).
+ Akt is also activated by active tumorigenic forms of Met, i.e.,
+ ligand-independent Tpr-Met, a truncated and constitutively dimerized
+ form of Met, and a mutationally activated version of Met corresponding
+ to that found in human hereditary papillary renal carcinoma. In NIH 3T3
+ cells transfected with wild-type Met, HGF inhibits apoptosis
+ induced by serum starvation and UV irradiation. HGF-induced survival
+ correlates with Akt activity and is inhibited by the specific
+ PI3-kinase inhibitor LY294002, indicating that HGF inhibits cell death
+ through the PI3-kinase/Akt signal transduction pathway.
+ Furthermore, transiently transfected Tpr-Met activates Akt (both Akt1
+ and Akt2) and protects cells from apoptosis. Mitogen-activated
+ protein kinase (MAPK) also is activated by HGF and rescues cells from
+ apoptosis, although the cytoprotective effect is less marked
+ than for PI3-kinase/Akt. Blocking MAPK with the specific MAPK
+ kinase inhibitor PD098059 impairs the ability of HGF to promote cell
+ survival. Similar results were obtained with NIH 3T3 cells expressing
+ the fusion protein Trk-Met and stimulated with nerve growth factor, the
+ Trk ligand. These results demonstrate that HGF/Met is capable of
+ protecting cells from apoptosis by using both
+ PI3-kinase/Akt and, to a lesser extent, MAPK pathways.
+DOC DONE!Abstract
+CD8+ T cell-mediated antiviral activity against
+ HIV has been described consistently in infected individuals; however,
+ the role of this activity in controlling replication of HIV in the
+ latently infected, resting CD4+ T cell reservoir is
+ unclear. By using an ex vivo system, we show that
+ replication of HIV in this viral reservoir is effectively suppressed in
+ coculture by autologous CD8+ T cells in long-term
+ nonprogressors (LTNPs) and in patients whose viremia was controlled by
+ highly active antiretroviral therapy (HAART), but not in therapy-naive
+ patients who had substantial levels of plasma viremia. This antiviral
+ activity was largely independent of cytotoxic CD8+ T
+ lymphocytes (CTL). When the role of soluble CD8+ T
+ cell-derived factors was examined, we found that CC-chemokines played a
+ major role in inhibition of viral replication in the latent viral
+ reservoir in some LTNPs and patients receiving HAART, but not in
+ chronically infected patients who were not receiving antiretroviral
+ therapy. Potent antiviral activity, independent of CC-chemokines, was
+ found mainly in patients in whom HAART was initiated shortly after the
+ acute phase of HIV infection. These results indicate that
+ CD8+ T cells provide potent suppressive activity against
+ HIV replication in the latent viral reservoir via direct cellular
+ contact in patients who are naturally LTNPs or in those who are treated
+ with HAART. Furthermore, the profound antiviral activity exerted by
+ non-CC-chemokine soluble factors in infected patients who began HAART
+ early in HIV infection suggests that preservation of this
+ HIV-suppressive mechanism by early initiation of therapy may play an
+ important role in the containment of viral replication in infected
+ patients following interruption of therapy.
+DOC DONE!Abstract
+Approximately one-third of patients with porphyria cutanea tarda
+ (PCT), the most common porphyria in humans, inherit a single mutant
+ allele of the uroporphyrinogen decarboxylase (URO-D)
+ gene. PCT associated with URO-D mutations is designated
+ familial PCT. The phenotype is characterized by a photosensitive
+ dermatosis with hepatic accumulation and urinary excretion of
+ uroporphyrin and hepta-carboxylic porphyrins. Most heterozygotes for
+ URO-D mutations do not express a porphyric phenotype
+ unless hepatic siderosis is present. Hemochromatosis gene
+ (HFE) mutations are frequently found when the phenotype
+ is expressed. We used homologous recombination to disrupt one allele of
+ murine URO-D. URO-D+/− mice
+ had half-wild type (wt) URO-D protein and enzymatic activity in all
+ tissues but did not accumulate hepatic porphyrins, indicating that
+ half-normal URO-D activity is not rate limiting. When
+ URO-D+/− mice were injected with
+ iron-dextran and given drinking water containing δ-aminolevulinic
+ acid for 21 days, hepatic porphyrins accumulated, and hepatic URO-D
+ activity was reduced to 20% of wt. We bred mice homozygous for an
+ HFE gene disruption
+ (HFE−/−) to
+ URO-D+/− mice, generating mice with the
+ URO-D+/−/HFE−/−
+ genotype. These animals developed a porphyric phenotype by 14 weeks of
+ age without ALA supplementation, and URO-D activity was reduced to 14%
+ of wt. These data indicate that iron overload alone is sufficient to
+ reduce URO-D activity to rate-limiting levels in
+ URO-D+/− mice. The
+ URO-D+/− mouse serves as an excellent model
+ of familial PCT and affords the opportunity to define the mechanism by
+ which iron influences URO-D activity.
+DOC DONE!Abstract
+Adenomas are the precursors of most colorectal cancers.
+ Hyperplastic polyps have been linked to the subset of colorectal
+ cancers showing DNA microsatellite instability, but little is known of
+ their underlying genetic etiology. Using a strategy that isolates
+ differentially methylated sequences from hyperplastic polyps and normal
+ mucosa, we identified a 370-bp sequence containing the 5′ untranslated
+ region and the first exon of a gene that we have called
+ HPP1. Rapid amplification of cDNA ends was used to
+ isolate HPP1 from normal mucosa. Using reverse
+ transcription–PCR, HPP1 was expressed in 28 of 30
+ (93%) normal colonic samples but in only seven of 30 (23%) colorectal
+ cancers (P < 0.001). The 5′ region of
+ HPP1 included a CpG island containing 49 CpG sites, of
+ which 96% were found to be methylated by bisulfite sequencing of DNA
+ from colonic tumor samples. By COBRA analysis, methylation was detected
+ in six of nine (66%) adenomas, 17 of 27 (63%) hyperplastic polyps,
+ and 46 of 55 (84%) colorectal cancers. There was an inverse
+ relationship between methylation level and mRNA expression in cancers
+ (r = −0.67; P < 0.001), and
+ 5-aza-2-deoxycytidine treatment restored HPP1 expression
+ in two colorectal cancer cell lines. In situ
+ hybridization of HPP1 indicated that expression occurs
+ in epithelial and stromal elements in normal mucosa but is silenced in
+ both cell types in early colonic neoplasia. HPP1 is
+ predicted to encode a transmembrane protein containing follistatin and
+ epidermal growth factor-like domains. Silencing of HPP1
+ by methylation may increase the probability of neoplastic
+ transformation.
+DOC DONE!Abstract
+Intraerythrocytic malaria parasites replicate by the process of
+ schizogeny, during which time they copy their genetic material and
+ package it into infective merozoites. These merozoites must then exit
+ the host cell to invade new erythrocytes. To better characterize the
+ events of merozoite escape, erythrocytes containing Plasmodium
+ falciparum schizonts were cultured in the presence of the
+ cysteine protease inhibitor,
+ l-transepoxy-succinyl-leucylamido-(4-guanidino)butane
+ (E64). This treatment resulted in the accumulation of extraerythrocytic
+ merozoites locked within a thin, transparent membrane. Immunomicroscopy
+ demonstrated that the single membrane surrounding the merozoites is not
+ erythrocytic but rather is derived from the parasitophorous vacuolar
+ membrane (PVM). Importantly, structures identical in appearance can be
+ detected in untreated cultures at low frequency. Further studies
+ revealed that (i) merozoites from the PVM-enclosed
+ merozoite structures (PEMS) are invasive, viable, and capable of normal
+ development; (ii) PEMS can be purified easily and
+ efficiently; and (iii) when PEMS are added to uninfected
+ red blood cells, released merozoites can establish a synchronous wave
+ of infection. These observations suggest that
+ l-transepoxy-succinyl-leucylamido-(4-guanidino)butane (E64)
+ causes an accumulation of an intermediate normally present during the
+ process of rupture. We propose a model for the process of rupture:
+ merozoites enclosed within the PVM first exit from the host erythrocyte
+ and then rapidly escape from the PVM by a proteolysis-dependent
+ mechanism.
+DOC DONE!Abstract
+IL-10 is a pleiotropic cytokine that acts as an important regulator
+ of macrophage, T cell, and natural killer cell functions. Human IL-10
+ (hIL-10) has both stimulatory and inhibitory effects on a wide variety
+ of cell types. Viral IL-10 (vIL-10) possesses only a subset of
+ hIL-10's activities, predominantly its suppression of cytokine
+ synthesis by T helper type 1 clones. In the present report, we
+ evaluated tissue accumulation and biological activity of hIL-10 and
+ vIL-10 in vivo in individual organs by using a
+ first-generation adenoviral (Ad) vector administered intratracheally
+ and intravenously. We report the observation that Ad vectors delivering
+ vIL-10, but not hIL-10, are associated with prolonged expression in the
+ lung (>42 days) when delivered intratracheally. In contrast, there was
+ no prolongation in vIL-10 expression when Ad vectors were intravenously
+ administered, although vIL-10 levels in the tissue, but not serum, were
+ markedly increased relative to hIL-10. Moreover, we report an augmented
+ capacity of expressed vIL-10 versus hIL-10 to suppress the acute
+ inflammatory responses in the lung to intratracheal administration of
+ Ad. These findings confirm fundamental differences in Ad-induced
+ expression of vIL-10 and hIL-10 when administered to the lungs. The
+ results further suggest that Ad vectors expressing vIL-10 may have a
+ role as anti-inflammatory agents in the treatment of acute and chronic
+ lung inflammation.
+DOC DONE!Abstract
+In Gram-negative bacteria, TEM-1 β-lactamase provides the major
+ mechanism of plasmid-mediated β-lactam resistance. Natural variants
+ of TEM-1 with increased antibiotic resistance have appeared in response
+ to the use of extended-spectrum β-lactam antibiotics (e.g.,
+ ceftazidime) and β-lactamase inhibitors (e.g., clavulanic acid). Some
+ of the variant enzymes are more efficient at catalyzing β-lactam
+ hydrolysis, whereas others are more resistant to inhibitors. M182T is a
+ substitution observed in both types of variant TEM-1 β-lactamases.
+ This mutation is found only in combination with other amino acid
+ substitutions, suggesting that it may correct defects introduced by
+ other mutations that alter the specificity. An engineered core
+ mutation, L76N, which diminishes the periplasmic β-lactamase activity
+ by 100-fold, was used as a model to understand the mechanism of
+ suppression of the M182T mutation. Biochemical studies of the L76N
+ enzyme alone and in combination with the M182T mutation indicate that
+ the M182T substitution acts at the level of folding but does not affect
+ the thermodynamic stability of TEM-1 β-lactamase. Thus, the M182T
+ substitution is an example of a naturally occurring mutation that has
+ evolved to alter the folding pathway of a protein and confer a
+ selective advantage during the evolution of drug resistance.
+DOC DONE!Abstract
+The hrp gene clusters of plant pathogenic bacteria
+ control pathogenicity on their host plants and ability to elicit the
+ hypersensitive reaction in resistant plants. Some hrp
+ gene products constitute elements of the type III secretion system, by
+ which effector proteins are exported and delivered into plant cells.
+ Here, we show that the hrpZ gene product from the bean
+ halo-blight pathogen, Pseudomonas syringae pv.
+ phaseolicola (HrpZPsph), is secreted in an
+ hrp-dependent manner in P. syringae pv.
+ phaseolicola and exported by the type III secretion
+ system in the mammalian pathogen Yersinia
+ enterocolitica. HrpZPsph was found to associate
+ stably with liposomes and synthetic bilayer membranes. Under symmetric
+ ionic conditions, addition of 2 nM of purified recombinant
+ HrpZPsph to the cis compartment of planar lipid bilayers
+ provoked an ion current with a large unitary conductivity of 207 pS.
+ HrpZPsph-related proteins from P. syringae
+ pv. tomato or syringae triggered ion
+ currents similar to those stimulated by HrpZPsph. The
+ HrpZPsph-mediated ion-conducting pore was permeable for
+ cations but did not mediate fluxes of Cl−. Such
+ pore-forming activity may allow nutrient release and/or delivery of
+ virulence factors during bacterial colonization of host plants.
+DOC DONE!Abstract
+The prefrontal cortex plays a fundamental role in the working
+ memory functions of the cerebral cortex and is also the site of
+ dysfunction in several neurological and psychiatric disorders,
+ including schizophrenia. Prefrontal neurons are distinguished by their
+ capacity for sustained activity during the time a stimulus is held in
+ memory, and this mnemonic response is considered a substrate for a
+ variety of cognitive functions. The neuronal basis for sustained
+ activity in prefrontal neurons is unknown but is thought to involve
+ recurrent excitation among pyramidal neurons. Recent studies in awake
+ behaving monkeys have demonstrated that the persistent activity in
+ prefrontal neurons is modulated by dopamine. To examine the mechanisms
+ by which dopamine might modulate transmission in local excitatory
+ circuits, we have performed dual whole-cell recordings in connected
+ pyramidal cell pairs with and without dopamine application. We find
+ that dopamine reduces the efficacy of unitary excitatory
+ neurotransmission in layer V pyramidal cells by decreasing its
+ reliability. These effects, which are reproduced by a selective D1
+ agonist and blocked by a D1 antagonist, are independent of voltage
+ changes and are not attenuated by blockade of sodium and potassium
+ channels in the postsynaptic neurons. We conclude that attenuation of
+ local horizontal excitatory synaptic transmission in layer V pyramidal
+ neurons by dopamine is through D1 actions at a presynaptic site.
+DOC DONE!Abstract
+Dopamine acts mainly through the D1/D5 receptor in the prefrontal
+ cortex (PFC) to modulate neural activity and behaviors associated with
+ working memory. To understand the mechanism of this effect, we examined
+ the modulation of excitatory synaptic inputs onto layer V PFC pyramidal
+ neurons by D1/D5 receptor stimulation. D1/D5 agonists increased the
+ size of N-methyl-d-aspartate (NMDA)
+ component of excitatory postsynaptic currents (EPSCs) through a
+ postsynaptic mechanism. In contrast, D1/D5 agonists caused a slight
+ reduction in the size of the non-NMDA component of EPSCs through a
+ small decrease in release probability. With 20 Hz synaptic trains, we
+ found that the D1/D5 agonists increased depolarization of summating
+ the NMDA component of excitatory postsynaptic potential (EPSP). By
+ increasing the NMDA component of EPSCs, yet slightly reducing release,
+ D1/D5 receptor activation selectively enhanced sustained synaptic
+ inputs and equalized the sizes of EPSPs in a 20-Hz train.
+DOC DONE!Abstract
+Mice engineered to lack GM2/GD2 synthase (GalNAc-T), with
+ resultant deficit of GM2, GD2, and all gangliotetraose gangliosides,
+ were originally described as showing a relatively normal phenotype with
+ only a slight reduction in nerve conduction. However, a subsequent
+ study showed that similar animals suffer axonal degeneration,
+ myelination defects, and impaired motor coordination. We have examined
+ the behavior of cerebellar granule neurons from these neonatal
+ knockouts in culture and have found evidence of impaired capacity for
+ Ca2+ regulation. These cells showed relatively normal
+ behavior when grown in the presence of physiological or moderately
+ elevated K+ but gradually degenerated in the presence of
+ high K+. This degeneration in depolarizing medium was
+ accompanied by progressive elevation of intracellular calcium and onset
+ of apoptosis, phenomena not observed with normal cells. No
+ differences were detected in cells from normal vs. heterozygous mice.
+ These findings suggest that neurons from GalNAc-T knockout mice are
+ lacking a calcium regulatory mechanism that is modulated by one or more
+ of the deleted gangliosides, and they support the hypothesis that
+ maintenance of calcium homeostasis is one function of complex
+ gangliosides during, and perhaps subsequent to, neuronal development.
+DOC DONE!Abstract
+We used event-related functional MRI to examine the neural
+ consequences of detecting the presence or absence of a stimulus.
+ Subjects detected a brief interval of coherent motion embedded in
+ dynamic noise that was presented throughout a test period. Several
+ brain regions, including V1/V2, middle temporal complex (MT+), left
+ intraparietal cortex, and the frontal eye field, were activated at the
+ onset of the dynamic noise, irrespective of whether a coherent motion
+ target was presented early or late in the test period, or not at all.
+ These regions, many of which were motion sensitive, were likely
+ involved in searching for and detecting the target. The blood
+ oxygenation level-dependent signal in these regions was higher in
+ trials in which a target was detected than in trials in which it was
+ missed or not presented, indicating that these regions were modulated
+ by detection. Moreover, the blood oxygenation leveldependent signal in
+ these regions decayed quickly once a target was detected, even though
+ the dynamic noise continued to be displayed, indicating that they were
+ shut down after detection. Therefore, detection-related modulations
+ occurred in the same regions that accumulate target information over
+ time, in agreement with current psychological and neural models of
+ detection. Many other regions, however, including areas in prefrontal
+ cortex and anterior cingulate, were not involved in searching for a
+ target. In these regions, activation began early in the test period
+ when an early target was detected but began late in the test period
+ when a late target was detected or when a response was correctly
+ withheld in the absence of a motion target. The signal in these regions
+ was therefore triggered by a discrete event during the test interval
+ that was related to presence–absence detection.
+DOC DONE!Abstract
+In the mammalian main olfactory bulb (MOB), the release of
+ glutamate from lateral dendrites of mitral cells onto the dendrites of
+ granule cells evokes recurrent and lateral inhibition of mitral cell
+ activity. Whole-cell voltage recordings in the mouse MOB in
+ vivo and in vitro show that recurrent and
+ lateral inhibition together control the number, duration, and onset of
+ odor-evoked action potential (AP) firing in mitral cells. APs in mitral
+ cells propagate into the lateral dendrites and evoke a transient
+ increase in dendritic calcium concentration ([Ca2+]),
+ which is decremental with distance from the soma, and increases with AP
+ number. These results suggest that the extent of AP propagation in
+ lateral dendrites of mitral cells, along with the concomitant dendritic
+ Ca2+ transient, controls the amplitude of lateral and
+ recurrent inhibition and thus is a critical determinant of
+ odor-specific AP patterns in the MOB.
+DOC DONE!Abstract
+Previous studies have established that humans and monkeys with
+ damage to striate cortex are able to detect and localize bright targets
+ within the resultant scotoma. Electrophysiological evidence in monkeys
+ suggests that residual vision also might include sensitivity to
+ direction of visual motion. We tested whether macaque monkeys with
+ longstanding lesions of striate cortex (V1), sustained in infancy,
+ could discriminate visual stimuli on the basis of direction of motion.
+ Three monkeys with unilateral striate cortex lesions sustained in
+ infancy were tested 2–5 years postlesion on a direction of motion
+ discrimination task. Each monkey was trained to make saccadic eye
+ movements to a field of moving dots or to withhold such eye movements,
+ depending on the direction of motion in a coherent random dot display.
+ With smaller motion displays, monkeys were unable to detect or
+ discriminate motion within the scotoma, although they could
+ discriminate moving from static stimuli. Yet, each monkey was able to
+ discriminate direction of motion when the motion stimulus was larger,
+ but still confined to the scotoma. The results demonstrate that the
+ recovery after infant damage to striate cortex includes some
+ sensitivity to direction of visual motion.
+DOC DONE!Abstract
+We have studied the effects of cAMP on synaptic transmission at the
+ calyx of Held and found that forskolin (an activator of adenylate
+ cyclase) and 8-Br-cAMP (a membrane-permeable analog of cAMP)
+ potentiated excitatory postsynaptic currents (EPSCs). Direct sampling
+ of miniature EPSCs (mEPSCs) and nonstationary fluctuation analysis
+ showed that mEPSCs were not modulated by cAMP, suggesting that the
+ locus of modulation is presynaptic. Deconvolution was used to examine
+ effects of cAMP on quantal-release rates. By using this method, it was
+ shown recently that release probabilities of readily releasable
+ vesicles are heterogeneous. Here, we show that cAMP selectively
+ increases the number of vesicles with higher release probabilities,
+ whereas a slow component of the EPSC, representing vesicles that fuse
+ more slowly, is unchanged. cAMP increases the apparent Ca2+
+ sensitivity for secretion, but this increase does not reflect an
+ increase in release probability necessarily but rather an increase in
+ the number of highly sensitive vesicles.
+DOC DONE!Abstract
+In the olfactory bulb, synaptic transmission between dendrites
+ plays an important role in the processing of olfactory information.
+ Glutamate released from the dendrites of principal mitral cells excites
+ the dendritic spines of granule cells, which in turn release
+ γ-aminobutyric acid (GABA) back onto mitral cell dendrites. Slow
+ N-methyl-d-aspartate (NMDA) receptors on
+ granule dendrites are particularly effective in driving this reciprocal
+ dendrodendritic inhibition (DDI), raising the possibility that calcium
+ influx through NMDA receptors may trigger GABA exocytosis directly. In
+ this study, I show that NMDA receptor activation is not an absolute
+ requirement and that DDI can be evoked solely by
+ α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors
+ when granule cell excitability is increased or under conditions that
+ slow AMPA receptor kinetics. In physiological extracellular
+ Mg2+, DDI elicited by photolysis of caged calcium in mitral
+ dendrites is blocked by cadmium and toxins to N- and P/Q-type
+ voltage-gated calcium channels. DDI is largely unaffected after granule
+ dendrites have been loaded with the slow calcium chelator EGTA,
+ suggesting a tight coupling between the site of calcium influx and the
+ release machinery governing GABA exocytosis. These results indicate
+ that voltage-gated calcium channels play an essential role in dendritic
+ GABA release during reciprocal feedback inhibition in the olfactory
+ bulb.
+DOC DONE!Abstract
+G-protein-coupled receptors (GPCRs) have recently joined the list
+ of cell surface receptors that dimerize. Dimerization has been shown to
+ alter the ligand-binding, signaling, and trafficking properties of
+ these receptors. Recent studies have shown that GPCRs heterodimerize
+ with closely related members, resulting in the modulation of their
+ function. In this study, we have attempted to determine whether members
+ of GPCR superfamilies that couple to different families of G-proteins
+ can associate and form oligomers. We chose the β2
+ adrenergic receptor that couples to stimulatory G-proteins and δ &
+ κ opioid receptors that couple to inhibitory G-proteins.
+ β2 and δ receptors undergo robust agonist-mediated
+ endocytosis, whereas κ receptors do not. We find that when
+ coexpressed, β2 receptors can form heteromeric complexes
+ with both δ and κ receptors. This heterooligomerization does
+ not significantly alter the ligand binding or coupling properties of
+ the receptors. However, it affects the trafficking properties of
+ the receptors. For example, we find that δ receptors, when
+ coexpressed with β2 receptors, undergo
+ isoproterenol-mediated endocytosis. Conversely, β2
+ receptors in these cells undergo etorphine-mediated endocytosis.
+ However, β2 receptors, when coexpressed with κ
+ receptors, undergo neither opioid- nor isoproterenol-mediated
+ endocytosis. Moreover, these cells exhibit a substantial decrease in
+ the isoproterenol-induced phosphorylation of mitogen-activated protein
+ kinases. Taken together, these results provide direct evidence of
+ heteromerization of GPCRs that couple to different types of G-proteins,
+ which results in the modulation of receptor trafficking and signal
+ transduction.
+DOC DONE!Abstract
+Only three of the four thyroid hormone receptor (TR)
+ isoforms, α1, β1, and β2, bind thyroid hormone (TH) and are
+ considered to be true TRs. TRα2 binds to TH response elements on DNA,
+ but its role in vivo is still unknown. We produced mice
+ completely deficient in TRα (TRαo/o) that maintain
+ normal serum thyroid-stimulating hormone (TSH) concentration despite
+ low serum thyroxine (T4), suggesting increased sensitivity
+ to TH. We therefore examined the effects of TH
+ (L-3,3′,5-triiodothyronine, L-T3) given to TH-deprived and
+ to intact TRαo/o mice. Controls were wild-type (WT) mice
+ of the same strain and mice resistant to TH due to deficiency in TRβ
+ (TRβ−/−). In liver, T3 produced
+ significantly greater responses in TRαo/o and smaller
+ responses in TRβ−/− as compared with WT mice. In
+ contrast, cardiac responses to L-T3 were absent or reduced
+ in TRαo/o, whereas they were similar in WT and
+ TRβ−/− mice, supporting the notion that TRα1 is the
+ dominant TH-dependent TR isoform in heart. 5-Triiodothyronine
+ (L-T3) given to intact mice produced a greater suppression
+ of serum T4 in TRαo/o than it did in WT mice
+ and reduced by a greater amount the TSH response to TSH-releasing
+ hormone. This is an in vivo demonstration that a TR
+ deficiency can enhance sensitivity to TH. This effect is likely due to
+ the abrogation of the constitutive “silencing” effect of TRα2
+ in tissues expressing the TRβ isoforms.
+DOC DONE!Abstract
+Endothelial nitric oxide (nitrogen monoxide) is synthesized at the
+ intravascular/extravascular interface. We previously have reported
+ the intravascular half-life of NO, as a result of consumption by
+ erythrocytes, as approximately 2 ms. We report here studies designed to
+ estimate the lifetime of NO in the parenchymal (extravascular) tissue
+ and describe the implications of these results for the distribution of
+ NO and oxygen concentration gradients away from the blood vessel. The
+ rate of consumption of NO by parenchymal cells (hepatocytes) linearly
+ depends on both NO and O2 concentration. We estimate that
+ the extravascular half-life of NO will range from 0.09 to >
+ 2 s, depending on O2 concentration and thus distance
+ from the vessel. Computer modeling reveals that this phenomenon,
+ coupled with reversible NO inhibition of cellular mitochondrial oxygen
+ consumption, substantially extends the zone of adequate tissue cellular
+ oxygenation away from the blood vessel, with an especially dramatic
+ effect during conditions of increased tissue work (oxygen consumption).
+ This represents a second action of NO, in addition to vasodilation, in
+ enhancing tissue cellular respiration and provides a possible
+ physiological function for the known reversible inhibition of
+ mitochondrial respiration by low concentrations of NO.
+DOC DONE!Abstract
+It has been proposed recently that two types of GnRH receptors
+ (GnRHR) exist in a particular species. Here we present data
+ demonstrating that at least three types of GnRHR are expressed in a
+ single diploid species, the bullfrog. Three different cDNAs, encoding
+ distinct types of bullfrog GnRHR (bfGnRHR-1, bfGnRHR-2, and bfGnRHR-3),
+ were isolated from pituitary and hindbrain of the bullfrog. BfGnRHR-1
+ mRNA was expressed predominantly in pituitary, whereas bfGnRHR-2 and -3
+ mRNAs were expressed in brain. The bfGnRHR-1, bfGnRHR-2, and bfGnRHR-3
+ proteins have an amino acid identity of ≈30% to ≈35% with
+ mammalian GnRHRs and ≈40% to ≈50% with nonmammalian GnRHRs.
+ Interestingly, bfGnRHR-2 has an 85% amino acid homology with
+ Xenopus GnRHR. Less than 53% amino acid identity
+ was observed among the three bfGnRHRs. All isolated cDNAs encode
+ functional receptors because their transient expression in COS-7 cells
+ resulted in a ligand-dependent increase in inositol phosphate
+ production. Notably, all three receptors exhibited a differential
+ ligand selectivity. For all receptors, cGnRH-II has a higher potency
+ than mGnRH. In addition, salmon GnRH also has a strikingly high potency
+ to stimulate all three receptors. In conclusion, we demonstrated the
+ presence of three GnRHRs in the bullfrog. Their expression in pituitary
+ and brain suggests that bfGnRHRs play an important role in the
+ regulation of reproductive functions in the bullfrog.
+DOC DONE!Abstract
+Plant alkaloids, one of the largest groups of natural
+ products, provide many pharmacologically active compounds. Several
+ genes in the biosynthetic pathways for scopolamine, nicotine, and
+ berberine have been cloned, making the metabolic engineering of these
+ alkaloids possible. Expression of two branching-point enzymes was
+ engineered: putrescine N-methyltransferase (PMT) in
+ transgenic plants of Atropa belladonna and
+ Nicotiana sylvestris and (S)-scoulerine
+ 9-O-methyltransferase (SMT) in cultured cells of
+ Coptis japonica and Eschscholzia
+ californica. Overexpression of PMT increased the nicotine
+ content in N. sylvestris, whereas suppression of
+ endogenous PMT activity severely decreased the nicotine
+ content and induced abnormal morphologies. Ectopic expression of SMT
+ caused the accumulation of benzylisoquinoline alkaloids in E.
+ californica. The prospects and limitations of engineering plant
+ alkaloid metabolism are discussed.
+DOC DONE!Abstract
+The enhanced disease resistance 1
+ (edr1) mutation of Arabidopsis confers
+ resistance to powdery mildew disease caused by the fungus
+ Erysiphe cichoracearum. Resistance mediated by the
+ edr1 mutation is correlated with induction of several
+ defense responses, including host cell death. Double mutant analysis
+ revealed that all edr1-associated phenotypes are
+ suppressed by mutations that block salicylic acid (SA) perception
+ (nim1) or reduce SA production (pad4 and
+ eds1). The NahG transgene, which lowers
+ endogenous SA levels, also suppressed edr1.
+ In contrast, the ein2 mutation did not suppress
+ edr1-mediated resistance and associated phenotypes,
+ indicating that ethylene and jasmonic acid-induced responses are not
+ required for edr1 resistance. The EDR1
+ gene was isolated by positional cloning and was found to encode a
+ putative MAP kinase kinase kinase similar to CTR1, a negative regulator
+ of ethylene responses in Arabidopsis. Taken together,
+ these data suggest that EDR1 functions at the top of a MAP kinase
+ cascade that negatively regulates SA-inducible defense responses.
+ Putative orthologs of EDR1 are present in monocots such as rice and
+ barley, indicating that EDR1 may regulate defense responses in a wide
+ range of crop species.
+DOC DONE!Abstract
+The structure of scientific collaboration networks is investigated.
+ Two scientists are considered connected if they have authored a paper
+ together and explicit networks of such connections are constructed by
+ using data drawn from a number of databases, including MEDLINE
+ (biomedical research), the Los Alamos e-Print Archive (physics), and
+ NCSTRL (computer science). I show that these collaboration networks
+ form “small worlds,” in which randomly chosen pairs of scientists
+ are typically separated by only a short path of intermediate
+ acquaintances. I further give results for mean and distribution of
+ numbers of collaborators of authors, demonstrate the presence of
+ clustering in the networks, and highlight a number of apparent
+ differences in the patterns of collaboration between the fields
+ studied.
+DOC DONE!Abstract
+We propose a scheme for molecule-based information processing by
+ combining well-studied spectroscopic techniques and recent results from
+ chemical dynamics. Specifically it is discussed how optical transitions
+ in single molecules can be used to rapidly perform classical (Boolean)
+ logical operations. In the proposed way, a restricted number of states
+ in a single molecule can act as a logical gate equivalent to at least
+ two switches. It is argued that the four-level scheme can also be used
+ to produce gain, because it allows an inversion, and not only a
+ switching ability. The proposed scheme is quantum mechanical in that it
+ takes advantage of the discrete nature of the energy levels but, we
+ here discuss the temporal evolution, with the use of the populations
+ only. On a longer time range we suggest that the same scheme could be
+ extended to perform quantum logic, and a tentative suggestion, based on
+ an available experiment, is discussed. We believe that the pumping can
+ provide a partial proof of principle, although this and similar
+ experiments were not interpreted thus far in our terms.
+DOC DONE!Abstract
+The Saccharomyces cerevisiae silencing protein Sir2
+ is the founding member of a universally conserved family of proteins
+ that have been shown to possess NAD-dependent histone deacetylation and
+ ADP-ribosylation activities. Here we show that histone deacetylation by
+ Sir2 is coupled to cleavage of the high-energy bond that links the
+ ADP-ribose moiety of NAD to nicotinamide. Analysis of the NAD cleavage
+ products revealed the presence of nicotinamide, ADP-ribose, and a third
+ product that appeared to be related to ADP-ribose. With the use of
+ label transfer experiments, we show that the acetyl group in the
+ histone substrate is transferred to this NAD breakdown product during
+ deacetylation, forming a product that we conclude to be
+ O-acetyl-ADP-ribose. Detection of this species strongly
+ argues for obligate coupling of histone deacetylation to NAD breakdown
+ by Sir2. We propose reaction mechanisms that could account for this
+ coupling via acetyl-ADP-ribose formation. The unprecedented coupling of
+ amide bond cleavage to cleavage of a high-energy bond raises the
+ possibility that NAD breakdown by Sir2 plays an important role in
+ silencing that is independent of its requirement for deacetylation.
+DOC DONE!Abstract
+Mutations in the clk-1 gene of the nematode
+ Caenorhabditis elegans result in slowed
+ development, sluggish adult behaviors, and an increased lifespan. CLK-1
+ is a mitochondrial polypeptide with sequence and functional
+ conservation from human to yeast. Coq7p, the Saccharomyces
+ cerevisiae homologue, is essential for ubiquinone (coenzyme Q
+ or Q) synthesis and therefore respiration. However, based on assays of
+ respiratory function, it has been reported that the primary defect in
+ the C. elegans clk-1 mutants is not in Q biosynthesis.
+ How do the clk-1 mutant worms have essentially normal
+ rates of respiration, when biochemical studies in yeast suggest a Q
+ deficiency? Nematodes are routinely fed Escherichia coli
+ strains containing a rich supply of Q. To study the Q synthesized by
+ C. elegans, we cultured worms on an E.
+ coli mutant that lacks Q and found that clk-1
+ mutants display early developmental arrest from eggs, or sterility
+ emerging from dauer stage. Provision of Q-replete E.
+ coli rescues these defects. Lipid analysis showed that
+ clk-1 worms lack the nematode Q9 isoform and
+ instead contain a large amount of a metabolite that is slightly more
+ polar than Q9. The clk-1 mutants also have
+ increased levels of Q8, the E. coli isoform,
+ and rhodoquinone-9. These results show that the clk-1
+ mutations result in Q auxotrophy evident only when Q is removed from
+ the diet, and that the aging and developmental phenotypes previously
+ described are consistent with altered Q levels and distribution.
+DOC DONE!Abstract
+We applied two experiments useful in the study of
+ ligand-regulated DNA binding proteins to AraC, the dimeric regulator of
+ the Escherichia coli l-arabinose operon. In
+ the absence of arabinose, AraC prefers to loop DNA by binding to two
+ half-sites that are separated by 210 base pairs, and in the presence of
+ arabinose it prefers to bind to adjacently located half-sites. The
+ basis for this ligand-regulated shift in binding appears to result from
+ a shift in the rigidity of the system, where rigidity both in AraC
+ protein in the absence of arabinose, and in the DNA are required to
+ generate the free energy differences that produce the binding
+ preferences. Eliminating the dimerization domains and connecting the
+ two DNA binding domains of AraC by a flexible peptide linker should
+ provide a protein whose behavior mimics that of AraC when there is no
+ interaction between its dimerization and DNA binding domains. The
+ resulting protein bound to adjacent half-sites on the DNA, like AraC
+ protein in the presence of arabinose. When the two double-stranded DNA
+ half-sites were connected by 24 bases of single-stranded, flexible DNA,
+ wild-type AraC protein bound to the DNA in the presence and absence of
+ arabinose with equal affinity, showing that AraC modulates its DNA
+ binding affinity in response to arabinose by shifting the relative
+ positions of its DNA binding domains. These results are consistent with
+ the light switch mechanism for the action of AraC, refine the model,
+ and extend the range of experimental tests to which it has been
+ subjected.
+DOC DONE!Abstract
+The catalytic mechanism of the reductive half reaction of the
+ quinoprotein methanol dehydrogenase (MDH) is believed to proceed either
+ through a hemiketal intermediate or by direct transfer of a hydride ion
+ from the substrate methyl group to the cofactor, pyrroloquinoline
+ quinone (PQQ). A crystal structure of the enzyme-substrate complex of a
+ similar quinoprotein, glucose dehydrogenase, has recently been reported
+ that strongly favors the hydride transfer mechanism in that enzyme. A
+ theoretical analysis and an improved refinement of the 1.9-Å
+ resolution crystal structure of MDH from Methylophilus
+ methylotrophus W3A1 in the presence of methanol, reported
+ earlier, indicates that the observed tetrahedral configuration of the
+ C-5 atom of PQQ in that study represents the C-5-reduced form of the
+ cofactor and lends support for a hydride transfer mechanism for MDH.
+DOC DONE!Abstract
+MalT, the specific activator of the maltose regulon, is the
+ prototype of a family of high-molecular-mass ATP-binding bacterial
+ transcription activators. On binding of its two positive effectors, the
+ inducer maltotriose and ATP, MalT oligomerizes to an active state
+ competent for promoter binding and transcription activation. In
+ addition to its previously known DNA-binding domain, limited
+ proteolysis showed that MalT contains three other domains, the
+ boundaries of which were accurately delimited by N-terminal
+ microsequencing. The N-terminal domain alone binds ATP. Maltotriose
+ binding involves an extended region corresponding to domains 2 and 3,
+ although weak binding to domain 3 alone was also observed. Moreover,
+ maltotriose binding induces a conformational shift involving a movement
+ of both domains 1 and 3 with respect to domain 2, leading to the active
+ form of the protein. Sequence examination of the MalT homologues
+ suggests that these three domains might constitute a signaling module.
+DOC DONE!Abstract
+Human nuclear RNase P purified from HeLa cells has ATPase activity.
+ This activity is associated with one of the protein subunits of the
+ enzyme, Rpp20. Thus, human nuclear RNase P, which contains several
+ proteins and one essential RNA, has at least one other enzymatic
+ activity in addition to cleavage of phosphoester bonds in RNA. The
+ amino acid sequence of Rpp20 has a signature motif found in an
+ ATPase-containing subunit of a family of protein complexes (ABC
+ transporters) that mediate a variety of trans-membrane traffic, as well
+ as a segment, DIxxN, that resembles the DEAD box motif of many ATPases:
+ together, these might represent an ATPase signature motif.
+DOC DONE!Abstract
+The carboxyl-terminal domain (CTD) of the largest subunit of RNA
+ polymerase II plays an important role in transcription and processing
+ of the nascent transcript by interacting with both transcription and
+ RNA processing factors. We show here that the
+ cleavage/polyadenylation factor IA of Saccharomyces
+ cerevisiae directly contacts CTD. First by affinity
+ chromatography experiments with yeast extracts we demonstrate that the
+ Rna15p, Rna14p, and Pcf11p subunits of this complex are associated with
+ phosphorylated CTD. This interaction is confirmed for Rna15p by yeast
+ two-hybrid analysis. Second, Pcf11p, but not Rna15p, is shown to
+ directly contact phosphorylated CTD based on in vitro
+ binding studies with recombinant proteins. These findings establish a
+ direct interaction of cleavage/polyadenylation factor IA with the
+ CTD. Furthermore, a quantitative analysis of transcription run-on
+ performed on temperature-sensitive mutant strains reveals that the lack
+ of either functional Rna14p or Pcf11p affects transcription termination
+ more severely than the absence of a functional Rna15p. Moreover, these
+ data reinforce the concept that CTD phosphorylation acts as a
+ regulatory mechanism in the maturation of the primary transcript.
+DOC DONE!Abstract
+Amino acid–Fe(II)–chelator complexes exhibit strong
+ antioxidant activity. Taking advantage of the unique spectral
+ characteristics of the complexes formed when Ferrozine (Fz) is used as
+ the chelator, we now show that the primary blue complex
+ (ɛmax at 632 nm) decomposes by two independent pathways:
+ (i) a nonoxidative pathway involving dissociation of the
+ amino acid component and formation of a purple complex
+ (ɛmax at 562 nm) and (ii) an oxidative
+ pathway leading to Fe(III) and colorless products. Quantitative
+ conversion of the blue to purple complex yields an isosbestic point
+ (i.p.) at 601 nm, whereas no i.p. is formed during quantitative
+ oxidation of the blue complex. However, under some experimental
+ conditions, decomposition of the blue product occurs by both pathways,
+ leading to occurrence of a clean i.p. at wavelengths varying from 601
+ to 574 nm. Results of simulation experiments, confirmed by direct
+ analysis, demonstrate that shifts in the i.p. reflect differences in
+ the fractions of blue compound that decompose by the oxidative and
+ nonoxidative pathways. Indeed, the fraction of blue that is converted
+ to the purple complex is readily deduced from the wavelength of the
+ i.p. These results suggest that identification of a physiological
+ chelator that can replace Ferrozine in amino acid–iron complexes might
+ have important physiological and pharmacological applications.
+DOC DONE!Abstract
+Stimulated by recent 13C and 31P NMR
+ studies of exercising muscle, we propose a model of the energetics of
+ contraction. Previous studies of energetics have followed energy
+ consumption. However, the rapidity of contraction, in 10–40 msec,
+ requires that energy be delivered rapidly, so that the muscle has power
+ requirements of rapid energy expenditure that are ultimately met by the
+ slower averaged consumption of carbon and oxygen from blood. We propose
+ that energy is supplied in milliseconds by glycogenolysis and that
+ between contractions, glycogenesis refills the pools. The energy for
+ glycogenesis is supplied by oxidative phosphorylation. This mechanism
+ utilizes the rapid conversion of glycogen phosphorylase, the
+ “fight-or-flight” enzyme, to its active form. Lactate is
+ necessarily generated by this pathway to serve as a time buffer between
+ fast and slow energy needs, which resolves the paradoxical generation
+ of lactate in well oxygenated tissue. Consequences of the glycogen
+ shunt are compatible with numerous biochemical and physiological
+ experiments. The model provides a possible mechanism for muscle
+ fatigue, suggesting that at low but nonzero glycogen concentrations,
+ there is not enough glycogen to supply millisecond energy needs.
+DOC DONE!Abstract
+The crystal structure of DsRed, a red fluorescent protein
+ from a corallimorpharian, has been determined at 2.0-Å
+ resolution by multiple-wavelength anomalous dispersion and
+ crystallographic refinement. Crystals of the
+ selenomethionine-substituted protein have space group P21
+ and contain a tetramer with 222 noncrystallographic symmetry in the
+ asymmetric unit. The refined model has satisfactory stereochemistry and
+ a final crystallographic R factor of 0.162. The protein,
+ which forms an obligatory tetramer in solution and in the crystal, is a
+ squat rectangular prism comprising four protomers whose fold is
+ extremely similar to that of the Aequorea victoria green
+ fluorescent protein despite low (≈23%) amino acid sequence homology.
+ The monomer consists of an 11-stranded β barrel with a coaxial helix.
+ The chromophores, formed from the primary sequence -Gln-Tyr-Gly-
+ (residues 66–68), are arranged in a ≈27 × 34-Å rectangular
+ array in two approximately antiparallel pairs. The geometry at the α
+ carbon of Gln-66 (refined without stereochemical restraints) is
+ consistent with an sp2 hybridized center, in accord with
+ the proposal that red fluorescence is because of an additional
+ oxidation step that forms an acylimine extension to the chromophore
+ [Gross, L. A., Baird, G. S., Hoffman, R. C., Baldridge,
+ K. K. & Tsien, R. Y. (2000) Proc. Natl. Acad. Sci.
+ USA 87, 11990–11995]. The carbonyl oxygen of Phe-65 is almost
+ 90° out of the plane of the chromophore, consistent with theoretical
+ calculations suggesting that this is the minimum energy conformation of
+ this moiety despite the conjugation of this group with the rest of the
+ chromophore.
+DOC DONE!Abstract
+Here we demonstrate the implementation of a single-molecule force
+ clamp adapted for use with an atomic force microscope. We show that
+ under force-clamp conditions, an engineered titin protein elongates in
+ steps because of the unfolding of its modules and that the waiting
+ times to unfold are exponentially distributed. Force-clamp measurements
+ directly measure the force dependence of the unfolding probability and
+ readily captures the different mechanical stability of the I27 and I28
+ modules of human cardiac titin. Force-clamp spectroscopy promises to be
+ a direct way to probe the mechanical stability of elastic proteins such
+ as those found in muscle, the extracellular matrix, and cell adhesion.
+DOC DONE!Abstract
+It has generally been considered that important biological effects
+ of ionizing radiation arise as a direct consequence of DNA damage
+ occurring in irradiated cells. We have examined this hypothesis by
+ exposing cells to very low fluences of α-particles, similar to those
+ emitted by radon gas, such that as few as 1% of the cells in a
+ population are traversed by a particle and thus receive any radiation
+ exposure. By using the endpoints of changes in gene expression and
+ induction of DNA damage, we show that nonirradiated “bystander”
+ cells participate in the overall response of confluent
+ density-inhibited populations of cultured fibroblast and epithelial
+ cells. By in situ immunofluorescence techniques and the
+ use of cells genetically compromised in their ability to perform gap
+ junction intercellular communication, we present direct evidence for
+ the involvement of connexin43-mediated intercellular communication in
+ the transmission of damage signals to nonirradiated cells. Induction of
+ the stress-inducible p21Waf1 protein in aggregates of
+ neighboring cells far exceeding the fraction of cells whose nucleus has
+ been traversed occurred in gap junction-competent cells only. These
+ changes in p21Waf1 expression correlated with both the
+ induction of DNA damage (as measured by micronucleus formation) as well
+ as increased Ser-15 phosphorylation of p53.
+DOC DONE!Abstract
+Understanding of the chemical nature of the dioxygen moiety
+ of oxyhemoglobin is crucial for elucidation of its physiological
+ function. In the present work, direct Raman spectroscopic observation
+ of both the Fe—O2 and O—O stretching modes
+ unambiguously establishes the vibrational characteristics of the
+ oxygen-bound heme moiety in the hemoglobins of Chlamydomonas
+ eugametos and Synechocystis PCC6803. In addition
+ to providing the resonance Raman assignment of the O—O stretching
+ mode (1136 cm−1 for Chlamydomonas, 1133
+ cm−1 for Synechocystis) in an oxyhemoglobin
+ with an iron-porphyrin, this study also reports unusually low
+ frequencies for the Fe—O2 stretching modes (554
+ cm−1). The effect of strong hydrogen bonding to the bound
+ oxygen is confirmed by changes in the frequency of the
+ Fe—O2 stretching mode on mutation of distal residues.
+ These findings suggest an enzymatic function rather than an oxygen
+ transport role for these hemoglobins.
+DOC DONE!Abstract
+Transferred DNA (T-DNA) transfer from Agrobacterium
+ tumefaciens into eukaryotic cells is the only known example of
+ interkingdom DNA transfer. T-DNA is a single-stranded segment of
+ Agrobacterium's tumor-inducing plasmid that enters the
+ plant cell as a complex with the bacterial virulence proteins VirD2 and
+ VirE2. The VirE2 protein is highly induced on contact of A.
+ tumefaciens with a plant host and has been reported to act in
+ late steps of transfer. One of its previously demonstrated functions is
+ binding to the single-stranded (ss) T-DNA and protecting it from
+ degradation. Recent experiments suggest other functions of the protein.
+ A combination of planar lipid bilayer experiments, vesicle swelling
+ assays, and DNA transport experiments demonstrated that VirE2 can
+ insert itself into artificial membranes and form channels. These
+ channels are voltage gated, anion selective, and single-stranded
+ DNA-specific and can facilitate the efficient transport of
+ single-stranded DNA through membranes. These experiments demonstrate a
+ VirE2 function as a transmembrane DNA transporter, which could have
+ applications in gene delivery systems.
+DOC DONE!Abstract
+Ankyrin is a cytoskeletal adaptor protein that controls important
+ cellular functions, including Ca2+ efflux at inositol
+ 1,4,5-trisphosphate receptors (IP3R) on the endoplasmic
+ reticulum. The present study found that sigma-1 receptors (Sig-1R),
+ unique endoplasmic reticulum proteins that bind certain steroids,
+ neuroleptics, and psychotropic drugs, form a trimeric complex with
+ ankyrin B and IP3R type 3 (IP3R-3) in NG-108
+ cells. The trimeric complex could be coimmunoprecipitated by antibodies
+ against any of the three proteins. Sig-1R agonists such as pregnenolone
+ sulfate and cocaine caused the dissociation of an ankyrin B isoform
+ (ANK 220) from IP3R-3. This effect caused by Sig-1R
+ agonists was blocked by a Sig-1R antagonist. The degree of dissociation
+ of ANK 220 from IP3R-3 caused by Sig-1R ligands correlates
+ excellently with the ligands' efficacies in potentiating the
+ bradykinin-induced increase in cytosolic free Ca2+
+ concentration. Immunocytohistochemistry showed that Sig-1R, ankyrin B,
+ and IP3R-3 are colocalized in NG-108 cells in perinuclear
+ areas and in regions of cell-to-cell communication. These results
+ suggest that Sig-1R and associated ligands may play important roles in
+ cells by controlling the function of cytoskeletal proteins and that the
+ Sig-1R/ANK220/IP3R-3 complex regulating
+ Ca2+ signaling may represent a site of action for
+ neurosteroids and cocaine.
+DOC DONE!Abstract
+Previous work has shown that cyclin A can be cleaved at
+ Arg-70/Arg-71 by a proteolytic activity present in an in
+ vitro-coupled transcription/translation system by using
+ rabbit reticulocyte lysate programmed by plasmid DNA encoding
+ p27KIP1, a cyclin-dependent kinase inhibitor, but not by
+ plasmid DNAs encoding other cyclin-dependent kinases inhibitors. Here
+ we report that cyclin A is also cleaved by translation product
+ programmed by plasmid DNA encoding cyclin B. Several findings indicate
+ that the cleavage activity in this assay is provided by the bacterial
+ protease OmpT, which cofractionates with cyclin B and
+ p27KIP1 plasmid DNAs and is thus carried over into the
+ coupled in vitro transcription/translation reactions.
+ (i) Cleavage activity appeared even when transcription
+ or translation of the cyclin B or p27KIP1 was blocked.
+ (ii) Activity resembling OmpT, a serine protease that
+ cleaves between dibasic residues, routinely copurifies with
+ p27KIP1 and cyclin B plasmid DNAs. (iii)
+ Both cyclin A cleavage activity and OmpT activity are heat stable,
+ resistant to denaturation, and inhibited by Zn2+,
+ Cu2+, or benzamidine. (iv) Cyclin A cleavage
+ activity is detected when using lysates or DNAs prepared from
+ Escherichia coli strains that contained OmpT but not
+ with strains lacking OmpT. (v) Purified OmpT enzyme
+ itself cleaves cyclin A at R70/R71. These data indicate that OmpT can
+ be present in certain DNA preparations obtained by using standard
+ plasmid purification protocols, and its presence can potentially affect
+ the outcome and interpretation of studies carried out using in
+ vitro-translated proteins.
+DOC DONE!Abstract
+We have identified a family of resistin-like molecules (RELMs) in
+ rodents and humans. Resistin is a hormone produced by fat cells.
+ RELMα is a secreted protein that has a restricted tissue distribution
+ with highest levels in adipose tissue. Another family member, RELMβ,
+ is a secreted protein expressed only in the gastrointestinal tract,
+ particularly the colon, in both mouse and human. RELMβ gene
+ expression is highest in proliferative epithelial cells and is markedly
+ increased in tumors, suggesting a role in intestinal proliferation.
+ Resistin and the RELMs share a cysteine composition and other signature
+ features. Thus, the RELMs together with resistin comprise a class of
+ tissue-specific signaling molecules.
+DOC DONE!Abstract
+Apolipoprotein E (apoE) secreted by macrophages in the artery
+ wall exerts an important protective effect against the development of
+ atherosclerosis, presumably through its ability to promote lipid
+ efflux. Previous studies have shown that increases in cellular free
+ cholesterol levels stimulate apoE transcription in macrophages and
+ adipocytes; however, the molecular basis for this regulation is
+ unknown. Recently, Taylor and colleagues [Shih, S. J., Allan, C.,
+ Grehan, S., Tse, E., Moran, C. & Taylor, J. M. (2000)
+ J. Biol. Chem. 275, 31567–31572] identified two
+ enhancers from the human apoE gene, termed multienhancer 1 (ME.1) and
+ multienhancer 2 (ME.2), that direct macrophage- and adipose-specific
+ expression in transgenic mice. We demonstrate here that the nuclear
+ receptors LXRα and LXRβ and their oxysterol ligands are key
+ regulators of apoE expression in both macrophages and adipose tissue.
+ We show that LXR/RXR heterodimers regulate apoE transcription
+ directly, through interaction with a conserved LXR response element
+ present in both ME.1 and ME.2. Moreover, we demonstrate that the
+ ability of oxysterols and synthetic ligands to regulate apoE expression
+ in adipose tissue and peritoneal macrophages is reduced in
+ Lxrα−/− or Lxrβ−/− mice and
+ abolished in double knockouts. Basal expression of apoE is not
+ compromised in Lxr null mice, however, indicating that
+ LXRs mediate lipid-inducible rather than tissue-specific expression of
+ this gene. Together with our previous work, these findings support a
+ central role for LXR signaling pathways in the control of macrophage
+ cholesterol efflux through the coordinate regulation of apoE, ABCA1,
+ and ABCG1 expression.
+DOC DONE!Abstract
+The proteasome is the primary protease used by cells for degrading
+ proteins and generating peptide ligands for class I molecules of the
+ major histocompatibility complex. Based on the properties of cells
+ adapted to grow in the presence of the proteasome inhibitor
+ 4-hydroxy-5-iodo-3-nitrophenylacetyl-Leu-Leu-leucinal-vinyl sulfone
+ (NLVS), it was proposed that proteasomes can be replaced by alternative
+ proteolytic systems, particularly a large proteolytic complex with a
+ tripeptidyl peptidase II activity. Here we show that NLVS-adapted cells
+ retain sensitivity to a number of highly specific proteasome inhibitors
+ with regard to antigenic peptide generation, accumulation of
+ polyubiquitinated proteins, degradation of p53, and cell viability. In
+ addition, we show that in the same assays (with a single minor
+ exception), NLVS-adapted cells are about as sensitive as nonselected
+ cells to Ala-Ala-Phe-chloromethylketone, a specific inhibitor of
+ tripeptidyl peptidase II activity. Based on these findings, we conclude
+ that proteasomes still have essential proteolytic functions in adapted
+ cells that are not replaced by Ala-Ala-Phe-chloromethylketone-sensitive
+ proteases.
+DOC DONE!Abstract
+The G12 subfamily of heterotrimeric G proteins, comprised of the
+ α-subunits Gα12 and Gα13, has been implicated as a signaling
+ component in cellular processes ranging from cytoskeletal changes to
+ cell growth and oncogenesis. In an attempt to elucidate specific roles
+ of this subfamily in cell regulation, we sought to identify molecular
+ targets of Gα12. Here we show a specific interaction between the G12
+ subfamily and the cytoplasmic tails of several members of the cadherin
+ family of cell-surface adhesion proteins. Gα12 or Gα13 binding
+ causes dissociation of the transcriptional activator β-catenin from
+ cadherins. Furthermore, in cells lacking the adenomatous polyposis coli
+ protein required for β-catenin degradation, expression of
+ mutationally activated Gα12 or Gα13 causes an increase in
+ β-catenin-mediated transcriptional activation. These findings provide
+ a potential molecular mechanism for the previously reported cellular
+ transforming ability of the G12 subfamily and reveal a link between
+ heterotrimeric G proteins and cellular processes controlling growth and
+ differentiation.
+DOC DONE!Abstract
+Elucidating the genetic basis of adaptation on a genomewide scale
+ has evaded biologists, but complete genome sequences and DNA
+ high-density array technology make genomewide surveys more tractable.
+ Six lines of Escherichia coli adapted for 2,000
+ generations to a stressful high temperature of 41.5°C were examined
+ on a genomewide scale for duplication/deletion events by using DNA
+ high-density arrays. A total of five duplication and deletion events
+ were detected. These five events occurred in three of the six lines,
+ whereas the remaining three lines contained no detectable events. Three
+ of the duplications were at 2.85 Mb of the E. coli
+ chromosome, providing evidence for the replicability of the adaptation
+ to high temperature. Four candidate genes previously shown to play
+ roles in stress and starvation survival were identified in the region
+ of common duplication. Expression of the two candidate genes examined
+ is elevated over expression levels in the ancestral lines or the lines
+ without the duplication. In the two cases where the duplication at 2.85
+ Mb has been further characterized, the timing of the genome
+ reorganization is coincident with significant increases in relative
+ fitness. In both of these cases, the model for the origin of the
+ duplication is a complex recombination event involving insertion
+ sequences and repeat sequences. These results provide additional
+ evidence for the idea that gene duplication plays an integral role
+ in adaptation, specifically as a means for gene amplification.
+DOC DONE!Abstract
+Patterns of nucleotide sequence diversity in the
+ predominantly self-fertilizing species Hordeum vulgare
+ subspecies spontaneum (wild barley) are compared between
+ the putative alcohol dehydrogenase 3 locus (denoted
+ “adh3”) and alcohol dehydrogenase 1
+ (adh1), two related but unlinked loci. The data consist
+ of a sequence sample of 1,873 bp of “adh3” drawn
+ from 25 accessions that span the species range. There were 104
+ polymorphic sites in the sequenced region of
+ “adh3.” The data reveal a strong geographic
+ pattern of diversity at “adh3” despite geographic
+ uniformity at adh1. Moreover, levels of nucleotide
+ sequence diversity differ by nearly an order of magnitude between the
+ two loci. Genealogical analysis resolved two distinct clusters of
+ “adh3” alleles (dimorphic sequence types) that
+ coalesce roughly 3 million years ago. One type consists of accessions
+ from the Middle East, and the other consists of accessions
+ predominantly from the Near East. The two “adh3”
+ sequence types are characterized by a high level of differentiation
+ between clusters (≈2.2%), which induces an overall excess of
+ intermediate frequency variants in the pooled sample. Finally, there is
+ evidence of intralocus recombination in the “adh3”
+ data, despite the high level of self-fertilization characteristic of
+ wild barley.
+DOC DONE!Abstract
+DNA from ancient human remains provides perspectives on the origin
+ of our species and the relationship between molecular and morphological
+ variation. We report analysis of mtDNA from the remains of 10 ancient
+ Australians. These include the morphologically gracile
+ Lake Mungo 3 [≈60 thousand years (ka) before present] and three
+ other gracile individuals from Holocene deposits at
+ Willandra Lakes (<10 ka), all within the skeletal range of living
+ Australians, and six Pleistocene/early Holocene individuals (15 to
+ <8 ka) from Kow Swamp with robust morphologies outside
+ the skeletal range of contemporary indigenous Australians. Lake Mungo 3
+ is the oldest (Pleistocene) “anatomically modern” human from whom
+ DNA has been recovered. His mtDNA belonged to a lineage that only
+ survives as a segment inserted into chromosome 11 of the nuclear
+ genome, which is now widespread among human populations. This lineage
+ probably diverged before the most recent common ancestor of
+ contemporary human mitochondrial genomes. This timing of divergence
+ implies that the deepest known mtDNA lineage from an anatomically
+ modern human occurred in Australia; analysis restricted to living
+ humans places the deepest branches in East Africa. The other ancient
+ Australian individuals we examined have mtDNA sequences descended from
+ the most recent common ancestor of living humans. Our results indicate
+ that anatomically modern humans were present in Australia before the
+ complete fixation of the mtDNA lineage now found in all living people.
+ Sequences from additional ancient humans may further challenge current
+ concepts of modern human origins.
+DOC DONE!Abstract
+Evolution produces complex and structured networks of interacting
+ components in chemical, biological, and social systems. We describe a
+ simple mathematical model for the evolution of an idealized chemical
+ system to study how a network of cooperative molecular species arises
+ and evolves to become more complex and structured. The network is
+ modeled by a directed weighted graph whose positive and negative links
+ represent “catalytic” and “inhibitory” interactions among
+ the molecular species, and which evolves as the least populated species
+ (typically those that go extinct) are replaced by new ones. A small
+ autocatalytic set, appearing by chance, provides the seed for the
+ spontaneous growth of connectivity and cooperation in the graph. A
+ highly structured chemical organization arises inevitably as the
+ autocatalytic set enlarges and percolates through the network in a
+ short analytically determined timescale. This self organization does
+ not require the presence of self-replicating species. The network also
+ exhibits catastrophes over long timescales triggered by the chance
+ elimination of “keystone” species, followed by recoveries.
+DOC DONE!Abstract
+The divergent evolution of protein sequences from genomic
+ databases can be analyzed by the use of different mathematical models.
+ The most common treat all sites in a protein sequence as equally
+ variable. More sophisticated models acknowledge the fact that
+ purifying selection generally tolerates variable amounts of amino acid
+ replacement at different positions in a protein sequence. In their
+ “stationary” versions, such models assume that the replacement
+ rate at individual positions remains constant throughout evolutionary
+ history. “Nonstationary” covarion versions, however, allow the
+ replacement rate at a position to vary in different branches of the
+ evolutionary tree. Recently, statistical methods have been developed
+ that highlight this type of variation in replacement rates. Here, we
+ show how positions that have variable rates of divergence in different
+ regions of a tree (“covarion behavior”), coupled with analyses of
+ experimental three-dimensional structures, can provide experimentally
+ testable hypotheses that relate individual amino acid residues to
+ specific functional differences in those branches. We illustrate this
+ in the elongation factor family of proteins as a paradigm for
+ applications of this type of analysis in functional genomics generally.
+DOC DONE!Abstract
+T lymphocytes and B lymphocytes are present in jawed vertebrates,
+ including cartilaginous fishes, but not in jawless vertebrates or
+ invertebrates. The origins of these lineages may be understood in terms
+ of evolutionary changes in the structure and regulation of
+ transcription factors that control lymphocyte development, such as
+ PU.1. The identification and characterization of three members of the
+ PU.1 family of transcription factors in a cartilaginous fish,
+ Raja eglanteria, are described here. Two of these genes
+ are orthologs of mammalian PU.1 and Spi-C, respectively, whereas the
+ third gene, Spi-D, is a different family member. In addition, a
+ PU.1-like gene has been identified in a jawless vertebrate,
+ Petromyzon marinus (sea lamprey). Both DNA-binding and
+ transactivation domains are highly conserved between mammalian and
+ skate PU.1, in marked contrast to lamprey Spi, in which similarity is
+ evident only in the DNA-binding domain. Phylogenetic analysis of
+ sequence data suggests that the appearance of Spi-C may predate the
+ divergence of the jawed and jawless vertebrates and that Spi-D arose
+ before the divergence of the cartilaginous fish from the lineage
+ leading to the mammals. The tissue-specific expression patterns of
+ skate PU.1 and Spi-C suggest that these genes share regulatory as well
+ as structural properties with their mammalian orthologs.
+DOC DONE!Abstract
+The rat zitter (zi) mutation induces hypomyelination
+ and vacuolation in the central nervous system (CNS), which result in
+ early-onset tremor and progressive flaccid paresis. By positional
+ cloning, we found a marked decrease in Attractin (Atrn)
+ mRNA in the brain of the zi/zi rat and
+ identified zi as an 8-bp deletion at a splice donor site
+ of Atrn. Atrn has been known to play multiple roles in
+ regulating physiological processes that are involved in monocyte–T
+ cell interaction, agouti-related hair pigmentation, and
+ control of energy homeostasis. Rat Atrn gene encoded two
+ isoforms, a secreted and a membrane form, as a result of alternative
+ splicing. The zi mutation at the Atrn
+ locus darkened coat color when introduced into agouti rats, as also
+ described in mahogany (mg) mice, carrying the homozygous
+ mutation at the Atrn locus. Transgenic rescue
+ experiments showed that the membrane-type Atrn
+ complemented both neurological alteration and abnormal pigmentation in
+ zi/zi rats, but that the secreted-type
+ Atrn complemented neither mutant phenotype. Furthermore,
+ we discovered that mg mice exhibited hypomyelination and
+ vacuolation in the CNS associated with body tremor. We conclude from
+ these results that the membrane Atrn has a critical role
+ in normal myelination in the CNS and would provide insights into the
+ physiology of myelination as well as the etiology of myelin diseases.
+DOC DONE!Abstract
+CpG islands are important in the protection of adjacent
+ housekeeping genes from de novo DNA methylation and for
+ keeping them in a transcriptionally active state. However, little is
+ known about their capacity to protect heterologous genes and assure
+ position-independent transcription of adjacent transgenes or retroviral
+ vectors. To tackle this question, we have used the mouse
+ aprt CpG island to flank a Rous sarcoma virus
+ (RSV)-derived reporter vector and followed the transcriptional activity
+ of integrated vectors. RSV is an avian retrovirus which does not
+ replicate in mammalian cells because of several blocks at all levels of
+ the replication cycle. Here we show that our RSV-derived reporter
+ proviruses linked to the mouse aprt gene CpG island
+ remain undermethylated and keep their transcriptional activity after
+ stable transfection into both avian and nonpermissive mammalian cells.
+ This effect is most likely caused by the protection from de
+ novo methylation provided by the CpG island and not by
+ enhancement of the promoter strength. Our results are consistent with
+ previous finding of CpG islands in proximity to active but not inactive
+ proviruses and support further investigation of the protection of the
+ gene transfer vectors from DNA methylation.
+DOC DONE!Abstract
+The level of polyteny of the Drosophila salivary
+ gland chromosomes was determined throughout the chromosome region
+ 89E1–4, the locus of the Bithorax Complex. A zone of
+ underreplication spans the 300 kb of DNA from the Ubx to
+ Abd-B loci. From the centromere proximal end of the
+ complex, a 70-kb-long gradual decrease of polytenization starts with
+ the Ubx transcription unit and, after a floor
+ corresponding to the abd-A locus, raises gradually back
+ to the maximum over 70 kb in the region of the Abd-B
+ transcription unit. In flies carrying the mutation Suppressor of
+ DNA Underreplication [Su(UR)ES], the
+ underreplication of the Bithorax Complex is fully
+ suppressed. In the wild type, the Bithorax Complex forms
+ a weak point featuring thinner bands separated by clefts or
+ constrictions. In Su(UR)ES strain in contrast, the
+ 89E1–4 band looks like a single solid band consisting of homogenous
+ dense material. We speculate that the wild-type Su(UR)ES protein
+ hampers DNA replication of silenced domains and leads to their
+ underreplication in salivary gland polytene chromosomes.
+DOC DONE!Abstract
+Mutations in several genes encoding transcription factors of
+ the hepatocyte nuclear factor (HNF) cascade are associated with
+ maturity-onset diabetes of the young (MODY), a monogenic form of
+ early-onset diabetes mellitus. The ability of the orphan nuclear
+ receptor small heterodimer partner (SHP, NR0B2) to modulate the
+ transcriptional activity of MODY1 protein, the nuclear receptor
+ HNF-4α, suggested SHP as a candidate MODY gene. We screened 173
+ unrelated Japanese subjects with early-onset diabetes for mutations in
+ this gene and found five different mutations (H53fsdel10,
+ L98fsdel9insAC, R34X, A195S, and R213C) in 6 subjects as well as one
+ apparent polymorphism (R216H), all present in the heterozygous state.
+ Interestingly, all of the subjects with the mutations were mildly or
+ moderately obese at onset of diabetes, and analysis of the lineages of
+ these individuals indicated that the SHP mutations were associated with
+ obesity rather than with diabetes. Therefore, an additional group of
+ 101 unrelated nondiabetic subjects with early-onset obesity was
+ screened for mutations in the SHP gene. Two of the previously observed
+ mutations (R34X and A195S) and two additional mutations (R57W and
+ G189E) were identified in 6 subjects, whereas no mutations were
+ identified in 116 young nondiabetic lean controls
+ (P = 0.0094). Functional studies of the mutant
+ proteins show that the mutations result in the loss of SHP
+ activity. These results suggest that genetic variation in the SHP gene
+ contributes to increased body weight and reveal a pathway leading to
+ this common metabolic disorder in Japanese.
+DOC DONE!Abstract
+We describe here a system for the rapid identification, assay
+ development, and characterization of gene-based single nucleotide
+ polymorphisms (SNPs). This system couples informatics tools that mine
+ candidate SNPs from public expressed sequence tag resources and
+ automatically designs assay reagents with detection by a chip-based
+ matrix-assisted laser desorption/ionization time-of-flight mass
+ spectrometry platform. As a proof of concept of this system, a
+ genomewide collection of reagents for 9,115 gene-based SNP genetic
+ markers was rapidly developed and validated. These data provide
+ preliminary insights into patterns of polymorphism in a genomewide
+ collection of gene-based polymorphisms.
+DOC DONE!Abstract
+Bipolar disorder or manic depressive illness is a major psychiatric
+ disorder that is characterized by fluctuation between two abnormal mood
+ states. Mania is accompanied by symptoms of euphoria, irritability, or
+ excitation, whereas depression is associated with low mood and
+ decreased motivation and energy. The etiology is currently unknown;
+ however, numerous family, twin, and adoption studies have argued for a
+ substantial genetic contribution. We have conducted a genome survey of
+ bipolar disorder using 443 microsatellite markers in a set of 20
+ families from the general North American population to identify
+ possible susceptibility loci. A maximum logarithm of odds score of 3.8
+ was obtained at D22S278 on 22q. Positive scores were found spanning a
+ region of nearly 32 centimorgans (cM) on 22q, with a possible secondary
+ peak at D22S419. Six other chromosomal regions yielded suggestive
+ evidence for linkage: 3p21, 3q27, 5p15, 10q, 13q31-q34, and 21q22. The
+ regions on 22q, 13q, and 10q have been implicated in studies of
+ schizophrenia, suggesting the possible presence of susceptibility genes
+ common to both disorders.
+DOC DONE!Abstract
+We hypothesize that loss of imprinting (LOI) of the insulin-like
+ growth factor II (IGF2) gene is associated with a
+ predisposition to sporadic colorectal cancer. We confirmed a previously
+ known strong correlation between LOI and microsatellite instability and
+ showed that LOI was not a consequence of microsatellite instability or
+ mismatch repair deficiency. LOI of IGF2 correlated
+ strongly with biallelic hypermethylation of a core of five CpG sites in
+ the insulator region of IGF2/H19, which is a known
+ CTCF-binding element. As this methylation-dependent LOI was present in
+ both tumors and normal colonic mucosa, it is possible that
+ hypermethylation creates a field defect predisposing to cancer.
+DOC DONE!Abstract
+T lymphocytes and B lymphocytes are present in jawed vertebrates,
+ including cartilaginous fishes, but not in jawless vertebrates or
+ invertebrates. The origins of these lineages may be understood in terms
+ of evolutionary changes in the structure and regulation of
+ transcription factors that control lymphocyte development, such as
+ PU.1. The identification and characterization of three members of the
+ PU.1 family of transcription factors in a cartilaginous fish,
+ Raja eglanteria, are described here. Two of these genes
+ are orthologs of mammalian PU.1 and Spi-C, respectively, whereas the
+ third gene, Spi-D, is a different family member. In addition, a
+ PU.1-like gene has been identified in a jawless vertebrate,
+ Petromyzon marinus (sea lamprey). Both DNA-binding and
+ transactivation domains are highly conserved between mammalian and
+ skate PU.1, in marked contrast to lamprey Spi, in which similarity is
+ evident only in the DNA-binding domain. Phylogenetic analysis of
+ sequence data suggests that the appearance of Spi-C may predate the
+ divergence of the jawed and jawless vertebrates and that Spi-D arose
+ before the divergence of the cartilaginous fish from the lineage
+ leading to the mammals. The tissue-specific expression patterns of
+ skate PU.1 and Spi-C suggest that these genes share regulatory as well
+ as structural properties with their mammalian orthologs.
+DOC DONE!Abstract
+Recent advances in the ability to detect people at the early
+ stages of HIV infection now permit the initiation of antiretroviral
+ treatment before the full complement of antiviral immune responses has
+ evolved. However, the influence of early treatment interventions on the
+ developing anti-HIV immune response is unknown. This study investigates
+ the impact of standard highly active antiretroviral therapy (HAART)
+ during the primary stages of HIV infection on the plasma HIV-1 RNA
+ level, CD4+ and CD8+ lymphocyte counts, and the
+ CD8+ cell anti-HIV response. Individuals treated with HAART
+ within 6 months of infection showed dramatic and rapid reductions in
+ HIV-1 RNA levels along with modest increases in CD4+ cell
+ number and decreases in CD8+ cell numbers. A significant
+ reduction in the level of CD8+ cell noncytotoxic
+ suppression of HIV replication was observed over time in most
+ participants receiving HAART. Importantly, those individuals choosing
+ not to receive therapy maintained low but detectable HIV-1 RNA levels
+ and showed no reduction in their CD8+ cell antiviral
+ response. These results suggest that either continued antigenic
+ challenge is required to sustain CD8+ cell-mediated
+ anti-HIV activity, or that HAART has some inhibitory effect on this
+ important immunologic function during the early stages of infection.
+DOC DONE!
